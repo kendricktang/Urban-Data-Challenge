@@ -12,7 +12,7 @@ def convert_to_json(date, route):
     reader_f = reader(f_csv)
 
     # Write initial entry!
-    f_json.write('route_%s = {\n' % route)
+    f_json.write('{\n')
     first_line = reader_f.next()
     curr_trip = first_line[1]
     start_time = first_line[4]
