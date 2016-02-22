@@ -1,0 +1,48 @@
+Sort scheduled/realtime by routename, trip id, latitude, and longitude.
+Go through real-time, and look for the next match in scheduled, and then add scheduled time.
+
+
+scheduled-arrivals.csv
+    public route name           01
+    trip id                     5212999
+    block name                  119
+    longitude                   -122
+    latitude                    37
+    schedule arrival time       10/1/2012 10:31:00.88 AM
+
+realtime-arrivals.csv
+    public route name           01
+    nextbus vehicle assignment  5602
+    trip id                     5212999
+    block name                  199
+    is two car                  N
+    car number                  0
+    stop id                     4027
+    longitude                   -122
+    latitude                    37
+    next bus arrival time       10/1/2012 10:34:54.0000 AM
+
+
+passenger-count.csv
+    stop_seq            22
+    stop_id             3893
+    stop_name           CALIFORNIA ST & PRESIDIO AVE S
+    on                  0
+    off                 0
+    load                0
+    mo                  10
+    day                 4
+    yr                  12
+    route               1
+    latitude            37
+    longitude           122
+    trip_id             758
+    dir                 1
+    vehno               758
+    timestop            2801
+    timedoorclose       8:08:20
+    timepullout         8:09:20
+    tripcode            1001.1 _ 2801_4686 _  75
+    tripstop            1022_ CALIFORNIA ST&PRESIDIO AVE S
+    doordwell           0:00:00
+    waitwell            0:00:00
