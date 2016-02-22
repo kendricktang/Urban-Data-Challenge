@@ -1,0 +1,85 @@
+route_81X = {
+	 8028: {
+		start: 25140,
+		data: [
+			{
+				route: 81X,
+				trip:  8028,
+				time: 25140,
+				longitude: -122.394037,
+				latitude: 37.789689,
+				d_time: 246,
+			},
+			{
+				route: 81X,
+				trip:  8028,
+				time: 24600,
+				longitude: -122.40211,
+				latitude: 37.786373,
+				d_time: 14,
+			},
+	},
+	 8154: {
+		start: 28920,
+		data: [
+			{
+				route: 81X,
+				trip:  8154,
+				time: 28920,
+				longitude: -122.394037,
+				latitude: 37.789689,
+				d_time: 232,
+			},
+			{
+				route: 81X,
+				trip:  8154,
+				time: 28380,
+				longitude: -122.40211,
+				latitude: 37.786373,
+				d_time: 300,
+			},
+	},
+	 8429: {
+		start: 30120,
+		data: [
+			{
+				route: 81X,
+				trip:  8429,
+				time: 30120,
+				longitude: -122.394037,
+				latitude: 37.789689,
+				d_time: 241,
+			},
+			{
+				route: 81X,
+				trip:  8429,
+				time: 29580,
+				longitude: -122.40211,
+				latitude: 37.786373,
+				d_time: 136,
+			},
+	},
+	 2822: {
+		start: 31980,
+		data: [
+			{
+				route: 81X,
+				trip:  2822,
+				time: 31980,
+				longitude: -122.40211,
+				latitude: 37.786373,
+				d_time: 526,
+			},
+	},
+	 8442: {
+		start: 33180,
+		data: [
+			{
+				route: 81X,
+				trip:  8442,
+				time: 33180,
+				longitude: -122.40211,
+				latitude: 37.786373,
+				d_time: 1681,
+			},
+}

@@ -1,0 +1,109 @@
+route_P = {
+	 1015: {
+		start: 65280,
+		data: [
+			{
+				route: P,
+				trip:  1015,
+				time: 65280,
+				longitude: -122.393874,
+				latitude: 37.794105,
+				d_time: 1080,
+			},
+			{
+				route: P,
+				trip:  1015,
+				time: 64680,
+				longitude: -122.41081,
+				latitude: 37.807841,
+				d_time: 1680,
+			},
+			{
+				route: P,
+				trip:  1015,
+				time: 64440,
+				longitude: -122.417366,
+				latitude: 37.807248,
+				d_time: 1920,
+			},
+	},
+	 1010: {
+		start: 67080,
+		data: [
+			{
+				route: P,
+				trip:  1010,
+				time: 67080,
+				longitude: -122.393874,
+				latitude: 37.794105,
+				d_time: 1603,
+			},
+			{
+				route: P,
+				trip:  1010,
+				time: 66480,
+				longitude: -122.41081,
+				latitude: 37.807841,
+				d_time: 1540,
+			},
+			{
+				route: P,
+				trip:  1010,
+				time: 66240,
+				longitude: -122.417366,
+				latitude: 37.807248,
+				d_time: 1736,
+			},
+	},
+	 1006: {
+		start: 67980,
+		data: [
+			{
+				route: P,
+				trip:  1006,
+				time: 67980,
+				longitude: -122.393874,
+				latitude: 37.794105,
+				d_time: -153,
+			},
+			{
+				route: P,
+				trip:  1006,
+				time: 67380,
+				longitude: -122.41081,
+				latitude: 37.807841,
+				d_time: -493,
+			},
+			{
+				route: P,
+				trip:  1006,
+				time: 67140,
+				longitude: -122.417366,
+				latitude: 37.807248,
+				d_time: -377,
+			},
+	},
+	 496: {
+		start: 34560,
+		data: [
+			{
+				route: P,
+				trip:  496,
+				time: 34560,
+				longitude: -122.388489,
+				latitude: 37.78957,
+				d_time: 290,
+			},
+	},
+	 1010: {
+		start: 35460,
+		data: [
+			{
+				route: P,
+				trip:  1010,
+				time: 35460,
+				longitude: -122.388489,
+				latitude: 37.78957,
+				d_time: 353,
+			},
+}
