@@ -359,5 +359,11 @@ def simplify_route_data(date):
         f_w.close()
 
 
+def all_simplify_route_data():
+    for date in range(1, 8):
+        simplify_route_data(date)
+
+
 if __name__ == '__main__':
-    simplify_route_data(1)
+    all_route_filter()
+    all_simplify_route_data()
