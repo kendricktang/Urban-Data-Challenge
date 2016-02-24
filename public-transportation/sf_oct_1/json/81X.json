@@ -1,53 +1,52 @@
 {
-	 8126: {
-		start: 28920,
-		data: [
-			{
-				route: 81X,
-				trip:  8126,
-				time: 28920,
-				longitude: -122.394037,
-				latitude: 37.789689,
-				d_time: 593,
-			},
-			{
-				route: 81X,
-				trip:  8126,
-				time: 28380,
-				longitude: -122.40211,
-				latitude: 37.786373,
-				d_time: 379,
-			},
-	},
-	 8453: {
-		start: 30120,
-		data: [
-			{
-				route: 81X,
-				trip:  8453,
-				time: 30120,
-				longitude: -122.394037,
-				latitude: 37.789689,
-				d_time: 296,
-			},
-			{
-				route: 81X,
-				trip:  8453,
-				time: 29580,
-				longitude: -122.40211,
-				latitude: 37.786373,
-				d_time: 251,
-			},
-	},
-	 8436: {
-		start: 33180,
-		data: [
-			{
-				route: 81X,
-				trip:  8436,
-				time: 33180,
-				longitude: -122.40211,
-				latitude: 37.786373,
-				d_time: 715,
-			},
+  " 8126-28920": {
+    "start": 28920,
+    "data": [
+      {
+        "route": "81X",
+        "trip":  8126,
+        "time": 28920,
+        "longitude": -122.394037,
+        "latitude": 37.789689,
+        "d_time": 593
+      },{
+        "route": "81X",
+        "trip":  8126,
+        "time": 28380,
+        "longitude": -122.40211,
+        "latitude": 37.786373,
+        "d_time": 379
+      }    ]
+  },
+  " 8453-30120": {
+    "start": 30120,
+    "data": [
+    {
+        "route": "81X",
+        "trip":  8453,
+        "time": 30120,
+        "longitude": -122.394037,
+        "latitude": 37.789689,
+        "d_time": 296
+      },{
+        "route": "81X",
+        "trip":  8453,
+        "time": 29580,
+        "longitude": -122.40211,
+        "latitude": 37.786373,
+        "d_time": 251
+      }    ]
+  },
+  " 8436-33180": {
+    "start": 33180,
+    "data": [
+    {
+        "route": "81X",
+        "trip":  8436,
+        "time": 33180,
+        "longitude": -122.40211,
+        "latitude": 37.786373,
+        "d_time": 715
+      }    ]
+  }
 }

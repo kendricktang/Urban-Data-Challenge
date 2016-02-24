@@ -1,401 +1,379 @@
 {
-	 8233: {
-		start: 65100,
-		data: [
-			{
-				route: 31AX,
-				trip:  8233,
-				time: 65100,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 131,
-			},
-			{
-				route: 31AX,
-				trip:  8233,
-				time: 66540,
-				longitude: -122.472227,
-				latitude: 37.776895,
-				d_time: 119,
-			},
-			{
-				route: 31AX,
-				trip:  8233,
-				time: 67260,
-				longitude: -122.509934,
-				latitude: 37.773321,
-				d_time: 101,
-			},
-	},
-	 8223: {
-		start: 59400,
-		data: [
-			{
-				route: 31AX,
-				trip:  8223,
-				time: 59400,
-				longitude: -122.472227,
-				latitude: 37.776895,
-				d_time: 43,
-			},
-			{
-				route: 31AX,
-				trip:  8223,
-				time: 60120,
-				longitude: -122.509934,
-				latitude: 37.773321,
-				d_time: 27,
-			},
-	},
-	 8029: {
-		start: 60600,
-		data: [
-			{
-				route: 31AX,
-				trip:  8029,
-				time: 60600,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 19,
-			},
-			{
-				route: 31AX,
-				trip:  8029,
-				time: 61800,
-				longitude: -122.472227,
-				latitude: 37.776895,
-				d_time: 78,
-			},
-			{
-				route: 31AX,
-				trip:  8029,
-				time: 62520,
-				longitude: -122.509934,
-				latitude: 37.773321,
-				d_time: 10,
-			},
-	},
-	 8343: {
-		start: 61200,
-		data: [
-			{
-				route: 31AX,
-				trip:  8343,
-				time: 61200,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 128,
-			},
-			{
-				route: 31AX,
-				trip:  8343,
-				time: 62400,
-				longitude: -122.472227,
-				latitude: 37.776895,
-				d_time: 464,
-			},
-			{
-				route: 31AX,
-				trip:  8343,
-				time: 63120,
-				longitude: -122.509934,
-				latitude: 37.773321,
-				d_time: 445,
-			},
-	},
-	 8356: {
-		start: 61920,
-		data: [
-			{
-				route: 31AX,
-				trip:  8356,
-				time: 61920,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 5,
-			},
-	},
-	 8178: {
-		start: 62520,
-		data: [
-			{
-				route: 31AX,
-				trip:  8178,
-				time: 62520,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 405,
-			},
-			{
-				route: 31AX,
-				trip:  8178,
-				time: 63780,
-				longitude: -122.472227,
-				latitude: 37.776895,
-				d_time: 628,
-			},
-			{
-				route: 31AX,
-				trip:  8178,
-				time: 64500,
-				longitude: -122.509934,
-				latitude: 37.773321,
-				d_time: 680,
-			},
-	},
-	 8339: {
-		start: 63120,
-		data: [
-			{
-				route: 31AX,
-				trip:  8339,
-				time: 63120,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 16,
-			},
-			{
-				route: 31AX,
-				trip:  8339,
-				time: 64560,
-				longitude: -122.472227,
-				latitude: 37.776895,
-				d_time: -80,
-			},
-			{
-				route: 31AX,
-				trip:  8339,
-				time: 65340,
-				longitude: -122.509934,
-				latitude: 37.773321,
-				d_time: -151,
-			},
-	},
-	 8180: {
-		start: 64320,
-		data: [
-			{
-				route: 31AX,
-				trip:  8180,
-				time: 64320,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 211,
-			},
-			{
-				route: 31AX,
-				trip:  8180,
-				time: 66000,
-				longitude: -122.472227,
-				latitude: 37.776895,
-				d_time: 108,
-			},
-			{
-				route: 31AX,
-				trip:  8180,
-				time: 66840,
-				longitude: -122.509934,
-				latitude: 37.773321,
-				d_time: 25,
-			},
-	},
-	 8020: {
-		start: 26580,
-		data: [
-			{
-				route: 31AX,
-				trip:  8020,
-				time: 26580,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: -277,
-			},
-			{
-				route: 31AX,
-				trip:  8020,
-				time: 25380,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: -50,
-			},
-	},
-	 8118: {
-		start: 27240,
-		data: [
-			{
-				route: 31AX,
-				trip:  8118,
-				time: 27240,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: -33,
-			},
-			{
-				route: 31AX,
-				trip:  8118,
-				time: 26040,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: 7,
-			},
-	},
-	 8184: {
-		start: 27840,
-		data: [
-			{
-				route: 31AX,
-				trip:  8184,
-				time: 27840,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 61,
-			},
-			{
-				route: 31AX,
-				trip:  8184,
-				time: 26640,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: 27,
-			},
-	},
-	 8142: {
-		start: 28680,
-		data: [
-			{
-				route: 31AX,
-				trip:  8142,
-				time: 28680,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 321,
-			},
-			{
-				route: 31AX,
-				trip:  8142,
-				time: 27240,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: 166,
-			},
-	},
-	 8368: {
-		start: 29280,
-		data: [
-			{
-				route: 31AX,
-				trip:  8368,
-				time: 29280,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 48,
-			},
-			{
-				route: 31AX,
-				trip:  8368,
-				time: 27840,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: 1,
-			},
-	},
-	 8367: {
-		start: 30240,
-		data: [
-			{
-				route: 31AX,
-				trip:  8367,
-				time: 30240,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 118,
-			},
-			{
-				route: 31AX,
-				trip:  8367,
-				time: 28440,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: 233,
-			},
-	},
-	 8110: {
-		start: 30840,
-		data: [
-			{
-				route: 31AX,
-				trip:  8110,
-				time: 30840,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 204,
-			},
-			{
-				route: 31AX,
-				trip:  8110,
-				time: 29040,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: 59,
-			},
-	},
-	 8020: {
-		start: 31440,
-		data: [
-			{
-				route: 31AX,
-				trip:  8020,
-				time: 31440,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: -90,
-			},
-			{
-				route: 31AX,
-				trip:  8020,
-				time: 29640,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: -79,
-			},
-	},
-	 8118: {
-		start: 31860,
-		data: [
-			{
-				route: 31AX,
-				trip:  8118,
-				time: 31860,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: 388,
-			},
-			{
-				route: 31AX,
-				trip:  8118,
-				time: 30240,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: 122,
-			},
-	},
-	 8339: {
-		start: 32460,
-		data: [
-			{
-				route: 31AX,
-				trip:  8339,
-				time: 32460,
-				longitude: -122.397532,
-				latitude: 37.792608,
-				d_time: -33,
-			},
-			{
-				route: 31AX,
-				trip:  8339,
-				time: 30840,
-				longitude: -122.472411,
-				latitude: 37.776788,
-				d_time: -11,
-			},
+  " 8233-65100": {
+    "start": 65100,
+    "data": [
+      {
+        "route": "31AX",
+        "trip":  8233,
+        "time": 65100,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 131
+      },{
+        "route": "31AX",
+        "trip":  8233,
+        "time": 66540,
+        "longitude": -122.472227,
+        "latitude": 37.776895,
+        "d_time": 119
+      },{
+        "route": "31AX",
+        "trip":  8233,
+        "time": 67260,
+        "longitude": -122.509934,
+        "latitude": 37.773321,
+        "d_time": 101
+      }    ]
+  },
+  " 8223-59400": {
+    "start": 59400,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8223,
+        "time": 59400,
+        "longitude": -122.472227,
+        "latitude": 37.776895,
+        "d_time": 43
+      },{
+        "route": "31AX",
+        "trip":  8223,
+        "time": 60120,
+        "longitude": -122.509934,
+        "latitude": 37.773321,
+        "d_time": 27
+      }    ]
+  },
+  " 8029-60600": {
+    "start": 60600,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8029,
+        "time": 60600,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 19
+      },{
+        "route": "31AX",
+        "trip":  8029,
+        "time": 61800,
+        "longitude": -122.472227,
+        "latitude": 37.776895,
+        "d_time": 78
+      },{
+        "route": "31AX",
+        "trip":  8029,
+        "time": 62520,
+        "longitude": -122.509934,
+        "latitude": 37.773321,
+        "d_time": 10
+      }    ]
+  },
+  " 8343-61200": {
+    "start": 61200,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8343,
+        "time": 61200,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 128
+      },{
+        "route": "31AX",
+        "trip":  8343,
+        "time": 62400,
+        "longitude": -122.472227,
+        "latitude": 37.776895,
+        "d_time": 464
+      },{
+        "route": "31AX",
+        "trip":  8343,
+        "time": 63120,
+        "longitude": -122.509934,
+        "latitude": 37.773321,
+        "d_time": 445
+      }    ]
+  },
+  " 8356-61920": {
+    "start": 61920,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8356,
+        "time": 61920,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 5
+      }    ]
+  },
+  " 8178-62520": {
+    "start": 62520,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8178,
+        "time": 62520,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 405
+      },{
+        "route": "31AX",
+        "trip":  8178,
+        "time": 63780,
+        "longitude": -122.472227,
+        "latitude": 37.776895,
+        "d_time": 628
+      },{
+        "route": "31AX",
+        "trip":  8178,
+        "time": 64500,
+        "longitude": -122.509934,
+        "latitude": 37.773321,
+        "d_time": 680
+      }    ]
+  },
+  " 8339-63120": {
+    "start": 63120,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8339,
+        "time": 63120,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 16
+      },{
+        "route": "31AX",
+        "trip":  8339,
+        "time": 64560,
+        "longitude": -122.472227,
+        "latitude": 37.776895,
+        "d_time": -80
+      },{
+        "route": "31AX",
+        "trip":  8339,
+        "time": 65340,
+        "longitude": -122.509934,
+        "latitude": 37.773321,
+        "d_time": -151
+      }    ]
+  },
+  " 8180-64320": {
+    "start": 64320,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8180,
+        "time": 64320,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 211
+      },{
+        "route": "31AX",
+        "trip":  8180,
+        "time": 66000,
+        "longitude": -122.472227,
+        "latitude": 37.776895,
+        "d_time": 108
+      },{
+        "route": "31AX",
+        "trip":  8180,
+        "time": 66840,
+        "longitude": -122.509934,
+        "latitude": 37.773321,
+        "d_time": 25
+      }    ]
+  },
+  " 8020-26580": {
+    "start": 26580,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8020,
+        "time": 26580,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": -277
+      },{
+        "route": "31AX",
+        "trip":  8020,
+        "time": 25380,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": -50
+      }    ]
+  },
+  " 8118-27240": {
+    "start": 27240,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8118,
+        "time": 27240,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": -33
+      },{
+        "route": "31AX",
+        "trip":  8118,
+        "time": 26040,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": 7
+      }    ]
+  },
+  " 8184-27840": {
+    "start": 27840,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8184,
+        "time": 27840,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 61
+      },{
+        "route": "31AX",
+        "trip":  8184,
+        "time": 26640,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": 27
+      }    ]
+  },
+  " 8142-28680": {
+    "start": 28680,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8142,
+        "time": 28680,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 321
+      },{
+        "route": "31AX",
+        "trip":  8142,
+        "time": 27240,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": 166
+      }    ]
+  },
+  " 8368-29280": {
+    "start": 29280,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8368,
+        "time": 29280,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 48
+      },{
+        "route": "31AX",
+        "trip":  8368,
+        "time": 27840,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": 1
+      }    ]
+  },
+  " 8367-30240": {
+    "start": 30240,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8367,
+        "time": 30240,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 118
+      },{
+        "route": "31AX",
+        "trip":  8367,
+        "time": 28440,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": 233
+      }    ]
+  },
+  " 8110-30840": {
+    "start": 30840,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8110,
+        "time": 30840,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 204
+      },{
+        "route": "31AX",
+        "trip":  8110,
+        "time": 29040,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": 59
+      }    ]
+  },
+  " 8020-31440": {
+    "start": 31440,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8020,
+        "time": 31440,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": -90
+      },{
+        "route": "31AX",
+        "trip":  8020,
+        "time": 29640,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": -79
+      }    ]
+  },
+  " 8118-31860": {
+    "start": 31860,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8118,
+        "time": 31860,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": 388
+      },{
+        "route": "31AX",
+        "trip":  8118,
+        "time": 30240,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": 122
+      }    ]
+  },
+  " 8339-32460": {
+    "start": 32460,
+    "data": [
+    {
+        "route": "31AX",
+        "trip":  8339,
+        "time": 32460,
+        "longitude": -122.397532,
+        "latitude": 37.792608,
+        "d_time": -33
+      },{
+        "route": "31AX",
+        "trip":  8339,
+        "time": 30840,
+        "longitude": -122.472411,
+        "latitude": 37.776788,
+        "d_time": -11
+      }    ]
+  }
 }

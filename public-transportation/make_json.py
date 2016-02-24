@@ -19,17 +19,17 @@ def convert_to_json(date, route):
     longitude = first_line[2]
     latitude = first_line[3]
     d_time = first_line[5]
-    f_json.write('\t%s: {\n' % curr_trip)
-    f_json.write('\t\tstart: %s,\n' % start_time)
-    f_json.write('\t\tdata: [\n')
-    f_json.write('\t\t\t{\n')
-    f_json.write('\t\t\t\troute: %s,\n' % route)
-    f_json.write('\t\t\t\ttrip: %s,\n' % curr_trip)
-    f_json.write('\t\t\t\ttime: %s,\n' % start_time)
-    f_json.write('\t\t\t\tlongitude: %s,\n' % longitude)
-    f_json.write('\t\t\t\tlatitude: %s,\n' % latitude)
-    f_json.write('\t\t\t\td_time: %s,\n' % d_time)
-    f_json.write('\t\t\t},\n')
+    f_json.write('  "%s-%s": {\n' % (curr_trip, start_time))
+    f_json.write('    "start": %s,\n' % start_time)
+    f_json.write('    "data": [\n')
+    f_json.write('      {\n')
+    f_json.write('        "route": "%s",\n' % route)
+    f_json.write('        "trip": %s,\n' % curr_trip)
+    f_json.write('        "time": %s,\n' % start_time)
+    f_json.write('        "longitude": %s,\n' % longitude)
+    f_json.write('        "latitude": %s,\n' % latitude)
+    f_json.write('        "d_time": %s\n' % d_time)
+    f_json.write('      }')
 
     for line in reader_f:
         trip = line[1]
@@ -41,21 +41,26 @@ def convert_to_json(date, route):
         # End the curr_trip, and begin a new one!
         if trip != curr_trip:
             curr_trip = trip
-            f_json.write('\t},\n')
-            f_json.write('\t%s: {\n' % curr_trip)
-            f_json.write('\t\tstart: %s,\n' % start_time)
-            f_json.write('\t\tdata: [\n')
+            f_json.write('    ]\n')
+            f_json.write('  },\n')
+            f_json.write('  "%s-%s": {\n' % (curr_trip, start_time))
+            f_json.write('    "start": %s,\n' % start_time)
+            f_json.write('    "data": [\n')
+            f_json.write('    {\n')
+        else:
+            f_json.write(',{\n')
 
         # Write the trip-stop datum!
-        f_json.write('\t\t\t{\n')
-        f_json.write('\t\t\t\troute: %s,\n' % route)
-        f_json.write('\t\t\t\ttrip: %s,\n' % curr_trip)
-        f_json.write('\t\t\t\ttime: %s,\n' % start_time)
-        f_json.write('\t\t\t\tlongitude: %s,\n' % longitude)
-        f_json.write('\t\t\t\tlatitude: %s,\n' % latitude)
-        f_json.write('\t\t\t\td_time: %s,\n' % d_time)
-        f_json.write('\t\t\t},\n')
+        f_json.write('        "route": "%s",\n' % route)
+        f_json.write('        "trip": %s,\n' % curr_trip)
+        f_json.write('        "time": %s,\n' % start_time)
+        f_json.write('        "longitude": %s,\n' % longitude)
+        f_json.write('        "latitude": %s,\n' % latitude)
+        f_json.write('        "d_time": %s\n' % d_time)
+        f_json.write('      }')
 
+    f_json.write('    ]\n')
+    f_json.write('  }\n')
     f_json.write('}')
     f_json.close()
 

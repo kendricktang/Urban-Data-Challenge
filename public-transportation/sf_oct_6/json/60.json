@@ -1,5073 +1,4620 @@
 {
-	 14: {
-		start: 67320,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 67320,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1207,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 67620,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1528,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 67800,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1514,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 68040,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1522,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 68340,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1518,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 68640,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1542,
-			},
-	},
-	 28: {
-		start: 67800,
-		data: [
-			{
-				route: 60,
-				trip:  28,
-				time: 67800,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 2504,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 68100,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 2513,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 68280,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 2517,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 68520,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2596,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 68820,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2654,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 69120,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 2605,
-			},
-	},
-	 25: {
-		start: 69960,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 69960,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -196,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 70260,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -496,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 70560,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -796,
-			},
-	},
-	 20: {
-		start: 69720,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 69720,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -803,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 70020,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -678,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 70200,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -744,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 70440,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -665,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 70740,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -629,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 71040,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -596,
-			},
-	},
-	 11: {
-		start: 70680,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 70680,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1129,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 70980,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1126,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 71160,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1156,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 71400,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1233,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 71700,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1261,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 72000,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1284,
-			},
-	},
-	 15: {
-		start: 71160,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 71160,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1855,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 71460,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1915,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 71640,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1851,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 71880,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2311,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 72180,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2287,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 72480,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 2155,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 34560,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 139,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 34740,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 164,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 34920,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 317,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 35220,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 418,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 35460,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 737,
-			},
-	},
-	 10: {
-		start: 61080,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 61080,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 2432,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 61380,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 2873,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 61560,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 2891,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 61800,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2906,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 62160,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2899,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 62460,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 2903,
-			},
-	},
-	 11: {
-		start: 61560,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 61560,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1138,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 61860,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1877,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 62040,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1826,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 62280,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1869,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 62640,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1847,
-			},
-	},
-	 15: {
-		start: 62760,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 62760,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -1601,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 63120,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -1614,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 63420,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -1688,
-			},
-	},
-	 28: {
-		start: 64080,
-		data: [
-			{
-				route: 60,
-				trip:  28,
-				time: 64080,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -288,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 64380,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -275,
-			},
-	},
-	 25: {
-		start: 64920,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 64920,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1066,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 65220,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1258,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 65400,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1255,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 65640,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1395,
-			},
-	},
-	 11: {
-		start: 23220,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 23220,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -279,
-			},
-	},
-	 14: {
-		start: 25020,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 25020,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 342,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 25260,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 354,
-			},
-	},
-	 15: {
-		start: 66840,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 66840,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -305,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 67140,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -245,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 67320,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -310,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 67560,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -330,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 67860,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -269,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 68160,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -274,
-			},
-	},
-	 19: {
-		start: 68280,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 68280,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 2276,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 68580,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 2587,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 68760,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 2551,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 69000,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2589,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 69300,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2646,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 69600,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 2628,
-			},
-	},
-	 14: {
-		start: 34980,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 34980,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -420,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 35160,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -329,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 35340,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -351,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 35520,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -138,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 35820,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -137,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 36060,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -60,
-			},
-	},
-	 19: {
-		start: 35460,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 35460,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 231,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 35760,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 249,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 35940,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 219,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 36120,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 382,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 36420,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 452,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 36660,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 479,
-			},
-	},
-	 11: {
-		start: 78840,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 78840,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 349,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 79020,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 486,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 79200,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 413,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 79380,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 503,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 79680,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 548,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 79920,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 603,
-			},
-	},
-	 10: {
-		start: 44761,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 44761,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -816,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 44941,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -710,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 45121,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -687,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 45301,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -678,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 45601,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -614,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 45841,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -636,
-			},
-	},
-	 21: {
-		start: 45541,
-		data: [
-			{
-				route: 60,
-				trip:  21,
-				time: 45541,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -1148,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 45721,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -1108,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 45901,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -1148,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 46081,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -983,
-			},
-	},
-	 10: {
-		start: 75060,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 75060,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2727,
-			},
-	},
-	 14: {
-		start: 27780,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 27780,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1380,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 27960,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1428,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 28140,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1380,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 28320,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1440,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 28620,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1440,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 28860,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1475,
-			},
-	},
-	 19: {
-		start: 28380,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 28380,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1345,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 28560,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 2014,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 28740,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 2008,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 28920,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2060,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 29220,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2094,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 29460,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 2157,
-			},
-	},
-	 11: {
-		start: 28980,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 28980,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1803,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 29160,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1912,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 29340,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1837,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 29520,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1822,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 29820,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1758,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 30060,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1756,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 25380,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -248,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 25560,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -197,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 25740,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -235,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 25920,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -117,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 26220,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -188,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 26460,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -178,
-			},
-	},
-	 20: {
-		start: 55800,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 55800,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -203,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 56100,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -208,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 56280,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -233,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 56460,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -181,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 56820,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -77,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 57120,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 255,
-			},
-	},
-	 10: {
-		start: 56280,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 56280,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1566,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 56580,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1597,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 56760,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1582,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 56940,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1655,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 57300,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1616,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 57600,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1832,
-			},
-	},
-	 11: {
-		start: 56760,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 56760,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 353,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 57060,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 361,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 57240,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 292,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 57420,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 352,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 57780,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 364,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 58080,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 402,
-			},
-	},
-	 14: {
-		start: 57720,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 57720,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 3724,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 58020,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 4079,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 58200,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 4097,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 58440,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 4159,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 58800,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 4179,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 59100,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 4169,
-			},
-	},
-	 19: {
-		start: 58680,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 58680,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 3851,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 58980,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 4225,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 59160,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 4190,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 59400,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 4230,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 59760,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 4255,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 60060,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 4254,
-			},
-	},
-	 10: {
-		start: 38520,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 38520,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 314,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 38760,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 338,
-			},
-	},
-	 21: {
-		start: 38040,
-		data: [
-			{
-				route: 60,
-				trip:  21,
-				time: 38040,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -195,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 38340,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -135,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 38520,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -135,
-			},
-	},
-	 15: {
-		start: 38520,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 38520,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1555,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 38820,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1621,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 39000,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1590,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 39180,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1679,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 39540,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1627,
-			},
-	},
-	 14: {
-		start: 39000,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 39000,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 2130,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 39300,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 2132,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 39660,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2233,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 39960,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2270,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 40200,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 2455,
-			},
-	},
-	 11: {
-		start: 36120,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 36120,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -98,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 36420,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -211,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 36600,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -184,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 36780,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -146,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 37080,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -158,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 37320,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -70,
-			},
-	},
-	 25: {
-		start: 36600,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 36600,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1398,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 36900,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1395,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 37080,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1444,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 37260,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1483,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 37560,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1618,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 37800,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1611,
-			},
-	},
-	 19: {
-		start: 39480,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 39480,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 2743,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 39780,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 2753,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 39960,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 2753,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 40140,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2843,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 40440,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 46053,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 40680,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 46200,
-			},
-	},
-	 11: {
-		start: 40440,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 40440,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 2692,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 40740,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 46003,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 40920,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 46014,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 41100,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 46102,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 41400,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 46087,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 41640,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 46132,
-			},
-	},
-	 15: {
-		start: 47640,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 47640,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 269,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 47940,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 425,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 48120,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 424,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 48300,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 595,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 48660,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 595,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 48960,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 503,
-			},
-	},
-	 14: {
-		start: 48120,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 48120,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 119,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 48420,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 112,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 48600,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 150,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 48780,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 241,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 49140,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 224,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 49440,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 294,
-			},
-	},
-	 07: {
-		start: 48600,
-		data: [
-			{
-				route: 60,
-				trip:  07,
-				time: 48600,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -110,
-			},
-			{
-				route: 60,
-				trip:  07,
-				time: 48900,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 5,
-			},
-			{
-				route: 60,
-				trip:  07,
-				time: 49080,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -15,
-			},
-	},
-	 25: {
-		start: 60120,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 60120,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -605,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 60420,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -375,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 60600,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -350,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 60840,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -293,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 61200,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -293,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 61500,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -322,
-			},
-	},
-	 20: {
-		start: 60600,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 60600,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1275,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 60900,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1627,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 61080,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1576,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 61320,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1598,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 61680,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1574,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 61980,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1565,
-			},
-	},
-	 15: {
-		start: 79320,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 79320,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1203,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 79500,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1317,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 79680,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1283,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 79860,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1293,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 80160,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1329,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 80400,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1330,
-			},
-	},
-	 19: {
-		start: 49080,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 49080,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 763,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 49380,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 875,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 49560,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 834,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 49740,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 906,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 50100,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 848,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 50400,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 987,
-			},
-	},
-	 20: {
-		start: 74160,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 74160,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1867,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 74340,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 1915,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 74520,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1867,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 74700,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1890,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 75000,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 1953,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 75240,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1966,
-			},
-	},
-	 19: {
-		start: 84780,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 84780,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -356,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 84960,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -192,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 85140,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -262,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 85320,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -248,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 85620,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -238,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 85860,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -229,
-			},
-	},
-	 20: {
-		start: 42420,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 42420,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -33,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 42720,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 51,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 89400,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -40672,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 89700,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -40673,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 89880,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -40643,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 46860,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2617,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 47220,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2572,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 47520,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 2503,
-			},
-	},
-	 14: {
-		start: 52920,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 52920,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 1494,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 53220,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 2219,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 53400,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 2182,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 53580,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2609,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 53940,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2723,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 54240,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 3059,
-			},
-	},
-	 19: {
-		start: 53880,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 53880,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 2374,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 54180,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 2514,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 54360,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 2452,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 54540,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2491,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 54900,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2469,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 55200,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 2514,
-			},
-	},
-	 11: {
-		start: 50040,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 50040,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 202,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 50340,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 279,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 50520,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 235,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 50700,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 601,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 51060,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 532,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 51360,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 653,
-			},
-	},
-	 25: {
-		start: 50520,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 50520,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 2050,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 50820,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 2015,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 51000,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 1978,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 51180,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 2037,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 51540,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 2076,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 51840,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 2112,
-			},
-	},
-	 10: {
-		start: 51480,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 51480,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -606,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 51780,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -546,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 51960,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -571,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 52140,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -482,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 52500,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -589,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 52800,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -569,
-			},
-	},
-	 15: {
-		start: 52440,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 52440,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 775,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 52740,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 716,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 52920,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 686,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 53100,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 815,
-			},
-	},
-	 10: {
-		start: 41880,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 41880,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 44867,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 42180,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 45007,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 42360,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 44964,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 42540,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 44998,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 42900,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 44939,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 86400,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 1758,
-			},
-	},
-	 14: {
-		start: 75960,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 75960,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -811,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 76140,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -624,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 76320,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -668,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 76500,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -570,
-			},
-	},
-	 28: {
-		start: 76440,
-		data: [
-			{
-				route: 60,
-				trip:  28,
-				time: 76440,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 401,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 76620,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 749,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 76800,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 974,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 76980,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: 1001,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 77280,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 980,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 77520,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 920,
-			},
-	},
-	 25: {
-		start: 88920,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 88920,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 494,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 89220,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 522,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 89400,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: 505,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 89580,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -42629,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 89940,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -42598,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 47040,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 591,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 33420,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: 667,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 33660,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 741,
-			},
-	},
-	 19: {
-		start: 80760,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 80760,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -1736,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 80940,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -1798,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 81120,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -1811,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 81300,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -1539,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 81600,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -1497,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 81840,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -1435,
-			},
-	},
-	 20: {
-		start: 82200,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 82200,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: 37,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 82380,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: 47,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 82560,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -21,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 82740,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -10,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 83040,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -7,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 83280,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: 15,
-			},
-	},
-	 28: {
-		start: 84180,
-		data: [
-			{
-				route: 60,
-				trip:  28,
-				time: 84180,
-				longitude: -122.40768,
-				latitude: 37.7848,
-				d_time: -916,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 84360,
-				longitude: -122.408493,
-				latitude: 37.789132,
-				d_time: -862,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 84540,
-				longitude: -122.409145,
-				latitude: 37.7923,
-				d_time: -898,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 84720,
-				longitude: -122.411712,
-				latitude: 37.79545,
-				d_time: -865,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 85020,
-				longitude: -122.418979,
-				latitude: 37.799236,
-				d_time: -875,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 85260,
-				longitude: -122.420432,
-				latitude: 37.806427,
-				d_time: -916,
-			},
-	},
-	 14: {
-		start: 41400,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 41400,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 45079,
-			},
-	},
-	 25: {
-		start: 49800,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 49800,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2188,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 49500,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2203,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 49320,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2247,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 48780,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2166,
-			},
-	},
-	 20: {
-		start: 88680,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 88680,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -40457,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 88380,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -40466,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 88200,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -40433,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 87660,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -40532,
-			},
-	},
-	 11: {
-		start: 35280,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 35280,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 554,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 35040,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 475,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 34920,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 472,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 34380,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 455,
-			},
-	},
-	 25: {
-		start: 35880,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 35880,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1953,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 35640,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1847,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 35520,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1848,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 34980,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1656,
-			},
-	},
-	 21: {
-		start: 44821,
-		data: [
-			{
-				route: 60,
-				trip:  21,
-				time: 44821,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -654,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 44581,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -619,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 44401,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -535,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 43921,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -553,
-			},
-	},
-	 28: {
-		start: 44641,
-		data: [
-			{
-				route: 60,
-				trip:  28,
-				time: 44641,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 91,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 44401,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 97,
-			},
-	},
-	 25: {
-		start: 64200,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 64200,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 706,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 63900,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 692,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 63720,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 557,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 63180,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 199,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 62940,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 75,
-			},
-	},
-	 19: {
-		start: 57960,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 57960,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 4001,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 57660,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 3540,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 57480,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 3515,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 56940,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 3262,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 56700,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 3026,
-			},
-	},
-	 10: {
-		start: 60360,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 60360,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2865,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 60060,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2510,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 59880,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2480,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 59340,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2116,
-			},
-	},
-	 11: {
-		start: 60840,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 60840,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1623,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 60540,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1250,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 60360,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1233,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 59820,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 944,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 59580,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 853,
-			},
-	},
-	 15: {
-		start: 46920,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 46920,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 263,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 89820,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -42995,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 89640,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 216,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 89100,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 174,
-			},
-	},
-	 14: {
-		start: 47400,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 47400,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 38,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 47100,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 59,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 46920,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 80,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 89580,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 67,
-			},
-	},
-	 21: {
-		start: 37320,
-		data: [
-			{
-				route: 60,
-				trip:  21,
-				time: 37320,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 78,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 37080,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 135,
-			},
-			{
-				route: 60,
-				trip:  21,
-				time: 36960,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 75,
-			},
-	},
-	 15: {
-		start: 37860,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 37860,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2017,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 37620,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1950,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 37440,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2005,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 36900,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1921,
-			},
-	},
-	 14: {
-		start: 38340,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 38340,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2354,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 38160,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2310,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 37920,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2437,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 37380,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2384,
-			},
-	},
-	 19: {
-		start: 37800,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 37800,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2918,
-			},
-	},
-	 07: {
-		start: 47880,
-		data: [
-			{
-				route: 60,
-				trip:  07,
-				time: 47880,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -110,
-			},
-	},
-	 19: {
-		start: 48360,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 48360,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 802,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 48060,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 790,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 47880,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 830,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 47340,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 740,
-			},
-	},
-	 14: {
-		start: 34260,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 34260,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -60,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 34020,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 0,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 33900,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 15,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 33360,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -126,
-			},
-	},
-	 11: {
-		start: 49320,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 49320,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 472,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 49020,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 518,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 48840,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 575,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 48300,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 494,
-			},
-	},
-	 20: {
-		start: 69000,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 69000,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -893,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 68760,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -1140,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 68580,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -1194,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 68040,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -1172,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 67800,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: -1133,
-			},
-	},
-	 10: {
-		start: 68520,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 68520,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 329,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 68280,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 345,
-			},
-	},
-	 11: {
-		start: 39720,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 39720,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2872,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 39480,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2944,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 39300,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2989,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 38760,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2930,
-			},
-	},
-	 14: {
-		start: 75240,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 75240,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -484,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 75000,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -631,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 74820,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -656,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 74280,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -635,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 74040,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: -691,
-			},
-	},
-	 28: {
-		start: 75720,
-		data: [
-			{
-				route: 60,
-				trip:  28,
-				time: 75720,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 884,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 75480,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 854,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 75300,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 854,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 74820,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 798,
-			},
-	},
-	 19: {
-		start: 76200,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 76200,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1382,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 75960,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1459,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 75780,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1482,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 75300,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1318,
-			},
-	},
-	 14: {
-		start: 60540,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 60540,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 2896,
-			},
-	},
-	 25: {
-		start: 59400,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 59400,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -370,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 59100,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -616,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 58920,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -631,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 58380,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -689,
-			},
-	},
-	 20: {
-		start: 59880,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 59880,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1297,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 59580,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1026,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 59400,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1075,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 58860,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 671,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 58620,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 563,
-			},
-	},
-	 28: {
-		start: 67080,
-		data: [
-			{
-				route: 60,
-				trip:  28,
-				time: 67080,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2504,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 66840,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2053,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 66660,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2114,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 66120,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1872,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 65880,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 361,
-			},
-	},
-	 11: {
-		start: 69960,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 69960,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1129,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 69720,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 696,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 69540,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 649,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 69000,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 612,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 68760,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 552,
-			},
-	},
-	 15: {
-		start: 70440,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 70440,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2261,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 70200,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1942,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 70020,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2005,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 69480,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2069,
-			},
-	},
-	 28: {
-		start: 70200,
-		data: [
-			{
-				route: 60,
-				trip:  28,
-				time: 70200,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 1525,
-			},
-	},
-	 19: {
-		start: 53160,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 53160,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2573,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 52860,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2648,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 52680,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2641,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 52140,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2208,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 51900,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 404,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 30120,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 1510,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 80040,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -1016,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 67560,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2833,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 67320,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2303,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 67140,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2278,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 66600,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2151,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 66360,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 2071,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 34860,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 558,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 34620,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 531,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 34500,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 489,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 33960,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 331,
-			},
-	},
-	 15: {
-		start: 43261,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 43261,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 43074,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 86220,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -107,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 86040,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -67,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 85560,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -30,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 85320,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 25,
-			},
-	},
-	 10: {
-		start: 44041,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 44041,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -381,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 43801,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -382,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 43621,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -357,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 46321,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -639,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 46081,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: -606,
-			},
-	},
-	 25: {
-		start: 71880,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 71880,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -1563,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 71640,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: -1876,
-			},
-	},
-	 20: {
-		start: 73320,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 73320,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2167,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 73080,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2058,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 72900,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2070,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 72360,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2030,
-			},
-	},
-	 11: {
-		start: 78120,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 78120,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 181,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 77880,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 178,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 77700,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 204,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 77220,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 140,
-			},
-	},
-	 14: {
-		start: 57000,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 57000,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 4267,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 56700,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 3827,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 56520,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 3814,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 55980,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 3260,
-			},
-	},
-	 15: {
-		start: 66120,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 66120,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -665,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 65880,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -827,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 65700,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -798,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 65160,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -981,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 64920,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: -995,
-			},
-	},
-	 10: {
-		start: 50760,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 50760,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 37,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 50460,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -36,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 50280,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -32,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 49740,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -52,
-			},
-	},
-	 15: {
-		start: 51720,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 51720,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1191,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 51420,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1075,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 51240,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1093,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 50700,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1132,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 50460,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 1070,
-			},
-	},
-	 14: {
-		start: 52200,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 52200,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 2199,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 51900,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2085,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 51720,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2072,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 51180,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1945,
-			},
-	},
-	 28: {
-		start: 83460,
-		data: [
-			{
-				route: 60,
-				trip:  28,
-				time: 83460,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -646,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 83220,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -736,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 83040,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -718,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 82560,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -713,
-			},
-			{
-				route: 60,
-				trip:  28,
-				time: 82320,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: -676,
-			},
-	},
-	 15: {
-		start: 78600,
-		data: [
-			{
-				route: 60,
-				trip:  15,
-				time: 78600,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1673,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 78360,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1526,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 78180,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1570,
-			},
-			{
-				route: 60,
-				trip:  15,
-				time: 77700,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1517,
-			},
-	},
-	 19: {
-		start: 84060,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 84060,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -176,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 83820,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -206,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 83640,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -183,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 83160,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -304,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 82920,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: -297,
-			},
-	},
-	 11: {
-		start: 24660,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 24660,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -38,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 24420,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -36,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 24300,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -15,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 23760,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 73,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 23520,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 91,
-			},
-	},
-	 25: {
-		start: 88200,
-		data: [
-			{
-				route: 60,
-				trip:  25,
-				time: 88200,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 364,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 87900,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 320,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 87720,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 319,
-			},
-			{
-				route: 60,
-				trip:  25,
-				time: 87180,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 190,
-			},
-	},
-	 14: {
-		start: 66600,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 66600,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1185,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 66360,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 747,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 66180,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 689,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 65640,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 409,
-			},
-	},
-	 20: {
-		start: 81480,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 81480,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 524,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 81240,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 381,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 81060,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 393,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 80580,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 366,
-			},
-	},
-	 11: {
-		start: 81060,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 81060,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1972,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 80820,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 1969,
-			},
-	},
-	 20: {
-		start: 55080,
-		data: [
-			{
-				route: 60,
-				trip:  20,
-				time: 55080,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: -93,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 54780,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: -202,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 54600,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: -232,
-			},
-			{
-				route: 60,
-				trip:  20,
-				time: 54060,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: -376,
-			},
-	},
-	 10: {
-		start: 55560,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 55560,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1670,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 55260,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1659,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 55080,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1687,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 54540,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1671,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 54300,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 1575,
-			},
-	},
-	 11: {
-		start: 56040,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 56040,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 173,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 55740,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 161,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 55560,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 214,
-			},
-	},
-	 14: {
-		start: 27060,
-		data: [
-			{
-				route: 60,
-				trip:  14,
-				time: 27060,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1238,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 26820,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1274,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 26700,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1314,
-			},
-			{
-				route: 60,
-				trip:  14,
-				time: 26160,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1380,
-			},
-	},
-	 19: {
-		start: 27660,
-		data: [
-			{
-				route: 60,
-				trip:  19,
-				time: 27660,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1631,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 27420,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1574,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 27300,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1604,
-			},
-			{
-				route: 60,
-				trip:  19,
-				time: 26760,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 1677,
-			},
-	},
-	 11: {
-		start: 28260,
-		data: [
-			{
-				route: 60,
-				trip:  11,
-				time: 28260,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 1904,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 28020,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 1912,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 27900,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 1925,
-			},
-			{
-				route: 60,
-				trip:  11,
-				time: 27360,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2039,
-			},
-	},
-	 10: {
-		start: 41160,
-		data: [
-			{
-				route: 60,
-				trip:  10,
-				time: 41160,
-				longitude: -122.407785,
-				latitude: 37.784635,
-				d_time: 45505,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 40920,
-				longitude: -122.408642,
-				latitude: 37.789061,
-				d_time: 2214,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 40740,
-				longitude: -122.409294,
-				latitude: 37.792211,
-				d_time: 2224,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 40200,
-				longitude: -122.419139,
-				latitude: 37.799182,
-				d_time: 2208,
-			},
-			{
-				route: 60,
-				trip:  10,
-				time: 39960,
-				longitude: -122.421108,
-				latitude: 37.806901,
-				d_time: 2179,
-			},
+  " 14-67320": {
+    "start": 67320,
+    "data": [
+      {
+        "route": "60",
+        "trip":  14,
+        "time": 67320,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1207
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 67620,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1528
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 67800,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1514
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 68040,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1522
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 68340,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1518
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 68640,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1542
+      }    ]
+  },
+  " 28-67800": {
+    "start": 67800,
+    "data": [
+    {
+        "route": "60",
+        "trip":  28,
+        "time": 67800,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 2504
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 68100,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 2513
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 68280,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 2517
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 68520,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2596
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 68820,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2654
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 69120,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 2605
+      }    ]
+  },
+  " 25-69960": {
+    "start": 69960,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 69960,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -196
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 70260,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -496
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 70560,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -796
+      }    ]
+  },
+  " 20-69720": {
+    "start": 69720,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 69720,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -803
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 70020,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -678
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 70200,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -744
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 70440,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -665
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 70740,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -629
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 71040,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -596
+      }    ]
+  },
+  " 11-70680": {
+    "start": 70680,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 70680,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1129
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 70980,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1126
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 71160,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1156
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 71400,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1233
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 71700,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1261
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 72000,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1284
+      }    ]
+  },
+  " 15-71160": {
+    "start": 71160,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 71160,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1855
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 71460,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1915
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 71640,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1851
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 71880,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2311
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 72180,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2287
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 72480,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 2155
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 34560,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 139
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 34740,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 164
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 34920,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 317
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 35220,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 418
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 35460,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 737
+      }    ]
+  },
+  " 10-61080": {
+    "start": 61080,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 61080,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 2432
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 61380,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 2873
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 61560,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 2891
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 61800,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2906
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 62160,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2899
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 62460,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 2903
+      }    ]
+  },
+  " 11-61560": {
+    "start": 61560,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 61560,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1138
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 61860,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1877
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 62040,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1826
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 62280,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1869
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 62640,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1847
+      }    ]
+  },
+  " 15-62760": {
+    "start": 62760,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 62760,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -1601
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 63120,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -1614
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 63420,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -1688
+      }    ]
+  },
+  " 28-64080": {
+    "start": 64080,
+    "data": [
+    {
+        "route": "60",
+        "trip":  28,
+        "time": 64080,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -288
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 64380,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -275
+      }    ]
+  },
+  " 25-64920": {
+    "start": 64920,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 64920,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1066
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 65220,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1258
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 65400,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1255
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 65640,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1395
+      }    ]
+  },
+  " 11-23220": {
+    "start": 23220,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 23220,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -279
+      }    ]
+  },
+  " 14-25020": {
+    "start": 25020,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 25020,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 342
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 25260,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 354
+      }    ]
+  },
+  " 15-66840": {
+    "start": 66840,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 66840,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -305
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 67140,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -245
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 67320,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -310
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 67560,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -330
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 67860,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -269
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 68160,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -274
+      }    ]
+  },
+  " 19-68280": {
+    "start": 68280,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 68280,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 2276
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 68580,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 2587
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 68760,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 2551
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 69000,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2589
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 69300,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2646
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 69600,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 2628
+      }    ]
+  },
+  " 14-34980": {
+    "start": 34980,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 34980,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -420
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 35160,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -329
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 35340,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -351
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 35520,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -138
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 35820,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -137
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 36060,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -60
+      }    ]
+  },
+  " 19-35460": {
+    "start": 35460,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 35460,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 231
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 35760,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 249
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 35940,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 219
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 36120,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 382
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 36420,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 452
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 36660,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 479
+      }    ]
+  },
+  " 11-78840": {
+    "start": 78840,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 78840,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 349
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 79020,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 486
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 79200,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 413
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 79380,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 503
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 79680,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 548
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 79920,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 603
+      }    ]
+  },
+  " 10-44761": {
+    "start": 44761,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 44761,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -816
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 44941,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -710
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 45121,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -687
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 45301,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -678
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 45601,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -614
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 45841,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -636
+      }    ]
+  },
+  " 21-45541": {
+    "start": 45541,
+    "data": [
+    {
+        "route": "60",
+        "trip":  21,
+        "time": 45541,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -1148
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 45721,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -1108
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 45901,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -1148
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 46081,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -983
+      }    ]
+  },
+  " 10-75060": {
+    "start": 75060,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 75060,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2727
+      }    ]
+  },
+  " 14-27780": {
+    "start": 27780,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 27780,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1380
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 27960,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1428
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 28140,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1380
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 28320,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1440
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 28620,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1440
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 28860,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1475
+      }    ]
+  },
+  " 19-28380": {
+    "start": 28380,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 28380,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1345
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 28560,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 2014
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 28740,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 2008
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 28920,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2060
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 29220,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2094
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 29460,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 2157
+      }    ]
+  },
+  " 11-28980": {
+    "start": 28980,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 28980,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1803
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 29160,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1912
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 29340,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1837
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 29520,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1822
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 29820,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1758
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 30060,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1756
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 25380,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -248
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 25560,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -197
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 25740,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -235
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 25920,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -117
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 26220,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -188
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 26460,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -178
+      }    ]
+  },
+  " 20-55800": {
+    "start": 55800,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 55800,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -203
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 56100,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -208
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 56280,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -233
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 56460,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -181
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 56820,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -77
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 57120,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 255
+      }    ]
+  },
+  " 10-56280": {
+    "start": 56280,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 56280,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1566
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 56580,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1597
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 56760,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1582
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 56940,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1655
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 57300,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1616
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 57600,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1832
+      }    ]
+  },
+  " 11-56760": {
+    "start": 56760,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 56760,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 353
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 57060,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 361
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 57240,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 292
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 57420,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 352
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 57780,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 364
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 58080,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 402
+      }    ]
+  },
+  " 14-57720": {
+    "start": 57720,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 57720,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 3724
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 58020,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 4079
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 58200,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 4097
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 58440,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 4159
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 58800,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 4179
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 59100,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 4169
+      }    ]
+  },
+  " 19-58680": {
+    "start": 58680,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 58680,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 3851
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 58980,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 4225
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 59160,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 4190
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 59400,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 4230
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 59760,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 4255
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 60060,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 4254
+      }    ]
+  },
+  " 10-38520": {
+    "start": 38520,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 38520,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 314
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 38760,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 338
+      }    ]
+  },
+  " 21-38040": {
+    "start": 38040,
+    "data": [
+    {
+        "route": "60",
+        "trip":  21,
+        "time": 38040,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -195
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 38340,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -135
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 38520,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -135
+      }    ]
+  },
+  " 15-38520": {
+    "start": 38520,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 38520,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1555
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 38820,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1621
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 39000,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1590
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 39180,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1679
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 39540,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1627
+      }    ]
+  },
+  " 14-39000": {
+    "start": 39000,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 39000,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 2130
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 39300,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 2132
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 39660,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2233
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 39960,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2270
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 40200,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 2455
+      }    ]
+  },
+  " 11-36120": {
+    "start": 36120,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 36120,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -98
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 36420,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -211
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 36600,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -184
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 36780,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -146
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 37080,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -158
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 37320,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -70
+      }    ]
+  },
+  " 25-36600": {
+    "start": 36600,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 36600,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1398
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 36900,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1395
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 37080,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1444
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 37260,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1483
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 37560,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1618
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 37800,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1611
+      }    ]
+  },
+  " 19-39480": {
+    "start": 39480,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 39480,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 2743
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 39780,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 2753
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 39960,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 2753
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 40140,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2843
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 40440,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 46053
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 40680,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 46200
+      }    ]
+  },
+  " 11-40440": {
+    "start": 40440,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 40440,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 2692
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 40740,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 46003
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 40920,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 46014
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 41100,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 46102
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 41400,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 46087
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 41640,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 46132
+      }    ]
+  },
+  " 15-47640": {
+    "start": 47640,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 47640,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 269
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 47940,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 425
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 48120,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 424
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 48300,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 595
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 48660,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 595
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 48960,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 503
+      }    ]
+  },
+  " 14-48120": {
+    "start": 48120,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 48120,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 119
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 48420,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 112
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 48600,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 150
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 48780,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 241
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 49140,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 224
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 49440,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 294
+      }    ]
+  },
+  " 07-48600": {
+    "start": 48600,
+    "data": [
+    {
+        "route": "60",
+        "trip":  07,
+        "time": 48600,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -110
+      },{
+        "route": "60",
+        "trip":  07,
+        "time": 48900,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 5
+      },{
+        "route": "60",
+        "trip":  07,
+        "time": 49080,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -15
+      }    ]
+  },
+  " 25-60120": {
+    "start": 60120,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 60120,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -605
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 60420,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -375
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 60600,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -350
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 60840,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -293
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 61200,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -293
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 61500,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -322
+      }    ]
+  },
+  " 20-60600": {
+    "start": 60600,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 60600,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1275
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 60900,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1627
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 61080,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1576
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 61320,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1598
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 61680,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1574
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 61980,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1565
+      }    ]
+  },
+  " 15-79320": {
+    "start": 79320,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 79320,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1203
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 79500,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1317
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 79680,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1283
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 79860,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1293
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 80160,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1329
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 80400,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1330
+      }    ]
+  },
+  " 19-49080": {
+    "start": 49080,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 49080,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 763
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 49380,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 875
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 49560,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 834
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 49740,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 906
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 50100,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 848
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 50400,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 987
+      }    ]
+  },
+  " 20-74160": {
+    "start": 74160,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 74160,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1867
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 74340,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 1915
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 74520,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1867
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 74700,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1890
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 75000,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 1953
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 75240,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1966
+      }    ]
+  },
+  " 19-84780": {
+    "start": 84780,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 84780,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -356
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 84960,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -192
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 85140,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -262
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 85320,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -248
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 85620,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -238
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 85860,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -229
+      }    ]
+  },
+  " 20-42420": {
+    "start": 42420,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 42420,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -33
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 42720,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 51
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 89400,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -40672
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 89700,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -40673
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 89880,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -40643
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 46860,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2617
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 47220,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2572
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 47520,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 2503
+      }    ]
+  },
+  " 14-52920": {
+    "start": 52920,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 52920,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 1494
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 53220,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 2219
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 53400,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 2182
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 53580,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2609
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 53940,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2723
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 54240,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 3059
+      }    ]
+  },
+  " 19-53880": {
+    "start": 53880,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 53880,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 2374
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 54180,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 2514
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 54360,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 2452
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 54540,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2491
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 54900,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2469
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 55200,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 2514
+      }    ]
+  },
+  " 11-50040": {
+    "start": 50040,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 50040,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 202
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 50340,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 279
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 50520,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 235
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 50700,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 601
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 51060,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 532
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 51360,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 653
+      }    ]
+  },
+  " 25-50520": {
+    "start": 50520,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 50520,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 2050
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 50820,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 2015
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 51000,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 1978
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 51180,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 2037
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 51540,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 2076
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 51840,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 2112
+      }    ]
+  },
+  " 10-51480": {
+    "start": 51480,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 51480,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -606
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 51780,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -546
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 51960,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -571
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 52140,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -482
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 52500,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -589
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 52800,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -569
+      }    ]
+  },
+  " 15-52440": {
+    "start": 52440,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 52440,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 775
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 52740,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 716
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 52920,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 686
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 53100,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 815
+      }    ]
+  },
+  " 10-41880": {
+    "start": 41880,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 41880,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 44867
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 42180,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 45007
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 42360,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 44964
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 42540,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 44998
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 42900,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 44939
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 86400,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 1758
+      }    ]
+  },
+  " 14-75960": {
+    "start": 75960,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 75960,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -811
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 76140,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -624
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 76320,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -668
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 76500,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -570
+      }    ]
+  },
+  " 28-76440": {
+    "start": 76440,
+    "data": [
+    {
+        "route": "60",
+        "trip":  28,
+        "time": 76440,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 401
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 76620,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 749
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 76800,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 974
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 76980,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": 1001
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 77280,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 980
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 77520,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 920
+      }    ]
+  },
+  " 25-88920": {
+    "start": 88920,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 88920,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 494
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 89220,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 522
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 89400,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": 505
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 89580,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -42629
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 89940,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -42598
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 47040,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 591
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 33420,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": 667
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 33660,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 741
+      }    ]
+  },
+  " 19-80760": {
+    "start": 80760,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 80760,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -1736
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 80940,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -1798
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 81120,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -1811
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 81300,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -1539
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 81600,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -1497
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 81840,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -1435
+      }    ]
+  },
+  " 20-82200": {
+    "start": 82200,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 82200,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": 37
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 82380,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": 47
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 82560,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -21
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 82740,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -10
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 83040,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -7
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 83280,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": 15
+      }    ]
+  },
+  " 28-84180": {
+    "start": 84180,
+    "data": [
+    {
+        "route": "60",
+        "trip":  28,
+        "time": 84180,
+        "longitude": -122.40768,
+        "latitude": 37.7848,
+        "d_time": -916
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 84360,
+        "longitude": -122.408493,
+        "latitude": 37.789132,
+        "d_time": -862
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 84540,
+        "longitude": -122.409145,
+        "latitude": 37.7923,
+        "d_time": -898
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 84720,
+        "longitude": -122.411712,
+        "latitude": 37.79545,
+        "d_time": -865
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 85020,
+        "longitude": -122.418979,
+        "latitude": 37.799236,
+        "d_time": -875
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 85260,
+        "longitude": -122.420432,
+        "latitude": 37.806427,
+        "d_time": -916
+      }    ]
+  },
+  " 14-41400": {
+    "start": 41400,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 41400,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 45079
+      }    ]
+  },
+  " 25-49800": {
+    "start": 49800,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 49800,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2188
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 49500,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2203
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 49320,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2247
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 48780,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2166
+      }    ]
+  },
+  " 20-88680": {
+    "start": 88680,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 88680,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -40457
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 88380,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -40466
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 88200,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -40433
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 87660,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -40532
+      }    ]
+  },
+  " 11-35280": {
+    "start": 35280,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 35280,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 554
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 35040,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 475
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 34920,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 472
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 34380,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 455
+      }    ]
+  },
+  " 25-35880": {
+    "start": 35880,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 35880,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1953
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 35640,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1847
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 35520,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1848
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 34980,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1656
+      }    ]
+  },
+  " 21-44821": {
+    "start": 44821,
+    "data": [
+    {
+        "route": "60",
+        "trip":  21,
+        "time": 44821,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -654
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 44581,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -619
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 44401,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -535
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 43921,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -553
+      }    ]
+  },
+  " 28-44641": {
+    "start": 44641,
+    "data": [
+    {
+        "route": "60",
+        "trip":  28,
+        "time": 44641,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 91
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 44401,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 97
+      }    ]
+  },
+  " 25-64200": {
+    "start": 64200,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 64200,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 706
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 63900,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 692
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 63720,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 557
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 63180,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 199
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 62940,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 75
+      }    ]
+  },
+  " 19-57960": {
+    "start": 57960,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 57960,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 4001
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 57660,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 3540
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 57480,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 3515
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 56940,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 3262
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 56700,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 3026
+      }    ]
+  },
+  " 10-60360": {
+    "start": 60360,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 60360,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2865
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 60060,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2510
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 59880,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2480
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 59340,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2116
+      }    ]
+  },
+  " 11-60840": {
+    "start": 60840,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 60840,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1623
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 60540,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1250
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 60360,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1233
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 59820,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 944
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 59580,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 853
+      }    ]
+  },
+  " 15-46920": {
+    "start": 46920,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 46920,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 263
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 89820,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -42995
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 89640,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 216
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 89100,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 174
+      }    ]
+  },
+  " 14-47400": {
+    "start": 47400,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 47400,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 38
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 47100,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 59
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 46920,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 80
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 89580,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 67
+      }    ]
+  },
+  " 21-37320": {
+    "start": 37320,
+    "data": [
+    {
+        "route": "60",
+        "trip":  21,
+        "time": 37320,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 78
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 37080,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 135
+      },{
+        "route": "60",
+        "trip":  21,
+        "time": 36960,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 75
+      }    ]
+  },
+  " 15-37860": {
+    "start": 37860,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 37860,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2017
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 37620,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1950
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 37440,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2005
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 36900,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1921
+      }    ]
+  },
+  " 14-38340": {
+    "start": 38340,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 38340,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2354
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 38160,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2310
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 37920,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2437
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 37380,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2384
+      }    ]
+  },
+  " 19-37800": {
+    "start": 37800,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 37800,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2918
+      }    ]
+  },
+  " 07-47880": {
+    "start": 47880,
+    "data": [
+    {
+        "route": "60",
+        "trip":  07,
+        "time": 47880,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -110
+      }    ]
+  },
+  " 19-48360": {
+    "start": 48360,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 48360,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 802
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 48060,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 790
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 47880,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 830
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 47340,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 740
+      }    ]
+  },
+  " 14-34260": {
+    "start": 34260,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 34260,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -60
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 34020,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 0
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 33900,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 15
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 33360,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -126
+      }    ]
+  },
+  " 11-49320": {
+    "start": 49320,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 49320,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 472
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 49020,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 518
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 48840,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 575
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 48300,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 494
+      }    ]
+  },
+  " 20-69000": {
+    "start": 69000,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 69000,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -893
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 68760,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -1140
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 68580,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -1194
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 68040,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -1172
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 67800,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": -1133
+      }    ]
+  },
+  " 10-68520": {
+    "start": 68520,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 68520,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 329
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 68280,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 345
+      }    ]
+  },
+  " 11-39720": {
+    "start": 39720,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 39720,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2872
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 39480,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2944
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 39300,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2989
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 38760,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2930
+      }    ]
+  },
+  " 14-75240": {
+    "start": 75240,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 75240,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -484
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 75000,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -631
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 74820,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -656
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 74280,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -635
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 74040,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": -691
+      }    ]
+  },
+  " 28-75720": {
+    "start": 75720,
+    "data": [
+    {
+        "route": "60",
+        "trip":  28,
+        "time": 75720,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 884
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 75480,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 854
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 75300,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 854
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 74820,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 798
+      }    ]
+  },
+  " 19-76200": {
+    "start": 76200,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 76200,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1382
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 75960,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1459
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 75780,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1482
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 75300,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1318
+      }    ]
+  },
+  " 14-60540": {
+    "start": 60540,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 60540,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 2896
+      }    ]
+  },
+  " 25-59400": {
+    "start": 59400,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 59400,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -370
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 59100,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -616
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 58920,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -631
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 58380,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -689
+      }    ]
+  },
+  " 20-59880": {
+    "start": 59880,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 59880,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1297
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 59580,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1026
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 59400,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1075
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 58860,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 671
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 58620,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 563
+      }    ]
+  },
+  " 28-67080": {
+    "start": 67080,
+    "data": [
+    {
+        "route": "60",
+        "trip":  28,
+        "time": 67080,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2504
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 66840,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2053
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 66660,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2114
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 66120,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1872
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 65880,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 361
+      }    ]
+  },
+  " 11-69960": {
+    "start": 69960,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 69960,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1129
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 69720,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 696
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 69540,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 649
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 69000,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 612
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 68760,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 552
+      }    ]
+  },
+  " 15-70440": {
+    "start": 70440,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 70440,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2261
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 70200,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1942
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 70020,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2005
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 69480,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2069
+      }    ]
+  },
+  " 28-70200": {
+    "start": 70200,
+    "data": [
+    {
+        "route": "60",
+        "trip":  28,
+        "time": 70200,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 1525
+      }    ]
+  },
+  " 19-53160": {
+    "start": 53160,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 53160,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2573
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 52860,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2648
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 52680,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2641
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 52140,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2208
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 51900,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 404
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 30120,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 1510
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 80040,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -1016
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 67560,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2833
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 67320,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2303
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 67140,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2278
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 66600,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2151
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 66360,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 2071
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 34860,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 558
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 34620,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 531
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 34500,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 489
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 33960,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 331
+      }    ]
+  },
+  " 15-43261": {
+    "start": 43261,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 43261,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 43074
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 86220,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -107
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 86040,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -67
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 85560,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -30
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 85320,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 25
+      }    ]
+  },
+  " 10-44041": {
+    "start": 44041,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 44041,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -381
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 43801,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -382
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 43621,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -357
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 46321,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -639
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 46081,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": -606
+      }    ]
+  },
+  " 25-71880": {
+    "start": 71880,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 71880,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -1563
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 71640,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": -1876
+      }    ]
+  },
+  " 20-73320": {
+    "start": 73320,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 73320,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2167
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 73080,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2058
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 72900,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2070
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 72360,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2030
+      }    ]
+  },
+  " 11-78120": {
+    "start": 78120,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 78120,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 181
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 77880,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 178
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 77700,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 204
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 77220,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 140
+      }    ]
+  },
+  " 14-57000": {
+    "start": 57000,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 57000,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 4267
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 56700,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 3827
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 56520,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 3814
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 55980,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 3260
+      }    ]
+  },
+  " 15-66120": {
+    "start": 66120,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 66120,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -665
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 65880,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -827
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 65700,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -798
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 65160,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -981
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 64920,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": -995
+      }    ]
+  },
+  " 10-50760": {
+    "start": 50760,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 50760,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 37
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 50460,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -36
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 50280,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -32
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 49740,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -52
+      }    ]
+  },
+  " 15-51720": {
+    "start": 51720,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 51720,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1191
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 51420,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1075
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 51240,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1093
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 50700,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1132
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 50460,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 1070
+      }    ]
+  },
+  " 14-52200": {
+    "start": 52200,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 52200,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 2199
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 51900,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2085
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 51720,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2072
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 51180,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1945
+      }    ]
+  },
+  " 28-83460": {
+    "start": 83460,
+    "data": [
+    {
+        "route": "60",
+        "trip":  28,
+        "time": 83460,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -646
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 83220,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -736
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 83040,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -718
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 82560,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -713
+      },{
+        "route": "60",
+        "trip":  28,
+        "time": 82320,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": -676
+      }    ]
+  },
+  " 15-78600": {
+    "start": 78600,
+    "data": [
+    {
+        "route": "60",
+        "trip":  15,
+        "time": 78600,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1673
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 78360,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1526
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 78180,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1570
+      },{
+        "route": "60",
+        "trip":  15,
+        "time": 77700,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1517
+      }    ]
+  },
+  " 19-84060": {
+    "start": 84060,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 84060,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -176
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 83820,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -206
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 83640,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -183
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 83160,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -304
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 82920,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": -297
+      }    ]
+  },
+  " 11-24660": {
+    "start": 24660,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 24660,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -38
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 24420,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -36
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 24300,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -15
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 23760,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 73
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 23520,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 91
+      }    ]
+  },
+  " 25-88200": {
+    "start": 88200,
+    "data": [
+    {
+        "route": "60",
+        "trip":  25,
+        "time": 88200,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 364
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 87900,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 320
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 87720,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 319
+      },{
+        "route": "60",
+        "trip":  25,
+        "time": 87180,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 190
+      }    ]
+  },
+  " 14-66600": {
+    "start": 66600,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 66600,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1185
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 66360,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 747
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 66180,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 689
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 65640,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 409
+      }    ]
+  },
+  " 20-81480": {
+    "start": 81480,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 81480,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 524
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 81240,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 381
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 81060,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 393
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 80580,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 366
+      }    ]
+  },
+  " 11-81060": {
+    "start": 81060,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 81060,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1972
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 80820,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 1969
+      }    ]
+  },
+  " 20-55080": {
+    "start": 55080,
+    "data": [
+    {
+        "route": "60",
+        "trip":  20,
+        "time": 55080,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": -93
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 54780,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": -202
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 54600,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": -232
+      },{
+        "route": "60",
+        "trip":  20,
+        "time": 54060,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": -376
+      }    ]
+  },
+  " 10-55560": {
+    "start": 55560,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 55560,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1670
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 55260,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1659
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 55080,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1687
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 54540,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1671
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 54300,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 1575
+      }    ]
+  },
+  " 11-56040": {
+    "start": 56040,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 56040,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 173
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 55740,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 161
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 55560,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 214
+      }    ]
+  },
+  " 14-27060": {
+    "start": 27060,
+    "data": [
+    {
+        "route": "60",
+        "trip":  14,
+        "time": 27060,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1238
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 26820,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1274
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 26700,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1314
+      },{
+        "route": "60",
+        "trip":  14,
+        "time": 26160,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1380
+      }    ]
+  },
+  " 19-27660": {
+    "start": 27660,
+    "data": [
+    {
+        "route": "60",
+        "trip":  19,
+        "time": 27660,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1631
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 27420,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1574
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 27300,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1604
+      },{
+        "route": "60",
+        "trip":  19,
+        "time": 26760,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 1677
+      }    ]
+  },
+  " 11-28260": {
+    "start": 28260,
+    "data": [
+    {
+        "route": "60",
+        "trip":  11,
+        "time": 28260,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 1904
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 28020,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 1912
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 27900,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 1925
+      },{
+        "route": "60",
+        "trip":  11,
+        "time": 27360,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2039
+      }    ]
+  },
+  " 10-41160": {
+    "start": 41160,
+    "data": [
+    {
+        "route": "60",
+        "trip":  10,
+        "time": 41160,
+        "longitude": -122.407785,
+        "latitude": 37.784635,
+        "d_time": 45505
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 40920,
+        "longitude": -122.408642,
+        "latitude": 37.789061,
+        "d_time": 2214
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 40740,
+        "longitude": -122.409294,
+        "latitude": 37.792211,
+        "d_time": 2224
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 40200,
+        "longitude": -122.419139,
+        "latitude": 37.799182,
+        "d_time": 2208
+      },{
+        "route": "60",
+        "trip":  10,
+        "time": 39960,
+        "longitude": -122.421108,
+        "latitude": 37.806901,
+        "d_time": 2179
+      }    ]
+  }
 }

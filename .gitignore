@@ -1,4 +1,6 @@
 .DS_Store
 public-transportation/sf_oct_*/*.csv
-public-transportation/sf_oct_*/routes
-
+public-transportation/sf_oct_*/routes/*
+public-transportation/sf_oct_*/routes_simplified/*
+public-transportation/sf_oct_*/big_json/*
+public-transportation/sf_oct_*/json/*

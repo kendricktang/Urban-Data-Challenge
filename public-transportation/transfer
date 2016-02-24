@@ -1,0 +1,7 @@
+cp sf_oct_1/big_json/* ~/Documents/projects/kendrickspage/app/static/js/20160222_transit/big_oct1/.
+cp sf_oct_2/big_json/* ~/Documents/projects/kendrickspage/app/static/js/20160222_transit/big_oct2/.
+cp sf_oct_3/big_json/* ~/Documents/projects/kendrickspage/app/static/js/20160222_transit/big_oct3/.
+cp sf_oct_4/big_json/* ~/Documents/projects/kendrickspage/app/static/js/20160222_transit/big_oct4/.
+cp sf_oct_5/big_json/* ~/Documents/projects/kendrickspage/app/static/js/20160222_transit/big_oct5/.
+cp sf_oct_6/big_json/* ~/Documents/projects/kendrickspage/app/static/js/20160222_transit/big_oct6/.
+cp sf_oct_7/big_json/* ~/Documents/projects/kendrickspage/app/static/js/20160222_transit/big_oct7/.

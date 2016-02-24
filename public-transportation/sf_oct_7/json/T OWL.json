@@ -1,477 +1,450 @@
 {
-	 8137: {
-		start: 20760,
-		data: [
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 20760,
-				longitude: -122.38846,
-				latitude: 37.76079,
-				d_time: -174,
-			},
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 21720,
-				longitude: -122.393874,
-				latitude: 37.794105,
-				d_time: -438,
-			},
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 19620,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -595,
-			},
-	},
-	 8510: {
-		start: 22440,
-		data: [
-			{
-				route: T OWL,
-				trip:  8510,
-				time: 22440,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: 32,
-			},
-	},
-	 8137: {
-		start: 22440,
-		data: [
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 22440,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: -403,
-			},
-	},
-	 8126: {
-		start: 21960,
-		data: [
-			{
-				route: T OWL,
-				trip:  8126,
-				time: 21960,
-				longitude: -122.38846,
-				latitude: 37.76079,
-				d_time: 173,
-			},
-			{
-				route: T OWL,
-				trip:  8126,
-				time: 22920,
-				longitude: -122.393874,
-				latitude: 37.794105,
-				d_time: 3,
-			},
-			{
-				route: T OWL,
-				trip:  8126,
-				time: 20820,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -773,
-			},
-			{
-				route: T OWL,
-				trip:  8126,
-				time: 23640,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: 69,
-			},
-	},
-	 8165: {
-		start: 23160,
-		data: [
-			{
-				route: T OWL,
-				trip:  8165,
-				time: 23160,
-				longitude: -122.38846,
-				latitude: 37.76079,
-				d_time: -91,
-			},
-			{
-				route: T OWL,
-				trip:  8165,
-				time: 24120,
-				longitude: -122.393874,
-				latitude: 37.794105,
-				d_time: -77,
-			},
-			{
-				route: T OWL,
-				trip:  8165,
-				time: 22020,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -287,
-			},
-			{
-				route: T OWL,
-				trip:  8165,
-				time: 24840,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: -44,
-			},
-	},
-	 8438: {
-		start: 24360,
-		data: [
-			{
-				route: T OWL,
-				trip:  8438,
-				time: 24360,
-				longitude: -122.38846,
-				latitude: 37.76079,
-				d_time: -16,
-			},
-			{
-				route: T OWL,
-				trip:  8438,
-				time: 25320,
-				longitude: -122.393874,
-				latitude: 37.794105,
-				d_time: -100,
-			},
-	},
-	 8144: {
-		start: 25320,
-		data: [
-			{
-				route: T OWL,
-				trip:  8144,
-				time: 25320,
-				longitude: -122.393874,
-				latitude: 37.794105,
-				d_time: 2312,
-			},
-	},
-	 8438: {
-		start: 23220,
-		data: [
-			{
-				route: T OWL,
-				trip:  8438,
-				time: 23220,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -385,
-			},
-			{
-				route: T OWL,
-				trip:  8438,
-				time: 26040,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: 25,
-			},
-	},
-	 8144: {
-		start: 26040,
-		data: [
-			{
-				route: T OWL,
-				trip:  8144,
-				time: 26040,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: 2240,
-			},
-	},
-	 8199: {
-		start: 25560,
-		data: [
-			{
-				route: T OWL,
-				trip:  8199,
-				time: 25560,
-				longitude: -122.38846,
-				latitude: 37.76079,
-				d_time: -37,
-			},
-			{
-				route: T OWL,
-				trip:  8199,
-				time: 26520,
-				longitude: -122.393874,
-				latitude: 37.794105,
-				d_time: -276,
-			},
-			{
-				route: T OWL,
-				trip:  8199,
-				time: 27240,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: -177,
-			},
-	},
-	 8137: {
-		start: 26760,
-		data: [
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 26760,
-				longitude: -122.38846,
-				latitude: 37.76079,
-				d_time: -155,
-			},
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 27720,
-				longitude: -122.393874,
-				latitude: 37.794105,
-				d_time: -247,
-			},
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 25620,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -189,
-			},
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 28440,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: -164,
-			},
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 19380,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -355,
-			},
-	},
-	 8126: {
-		start: 20580,
-		data: [
-			{
-				route: T OWL,
-				trip:  8126,
-				time: 20580,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -533,
-			},
-	},
-	 8165: {
-		start: 19740,
-		data: [
-			{
-				route: T OWL,
-				trip:  8165,
-				time: 19740,
-				longitude: -122.393324,
-				latitude: 37.79324,
-				d_time: 116,
-			},
-			{
-				route: T OWL,
-				trip:  8165,
-				time: 21780,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -67,
-			},
-	},
-	 8438: {
-		start: 20940,
-		data: [
-			{
-				route: T OWL,
-				trip:  8438,
-				time: 20940,
-				longitude: -122.393324,
-				latitude: 37.79324,
-				d_time: 272,
-			},
-			{
-				route: T OWL,
-				trip:  8438,
-				time: 22980,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -142,
-			},
-	},
-	 8420: {
-		start: 22140,
-		data: [
-			{
-				route: T OWL,
-				trip:  8420,
-				time: 22140,
-				longitude: -122.393324,
-				latitude: 37.79324,
-				d_time: 284,
-			},
-			{
-				route: T OWL,
-				trip:  8420,
-				time: 24180,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -526,
-			},
-			{
-				route: T OWL,
-				trip:  8420,
-				time: 21540,
-				longitude: -122.419321,
-				latitude: 37.775056,
-				d_time: 162,
-			},
-	},
-	 8137: {
-		start: 25380,
-		data: [
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 25380,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: 14,
-			},
-	},
-	 8126: {
-		start: 24540,
-		data: [
-			{
-				route: T OWL,
-				trip:  8126,
-				time: 24540,
-				longitude: -122.393324,
-				latitude: 37.79324,
-				d_time: 76,
-			},
-			{
-				route: T OWL,
-				trip:  8126,
-				time: 26580,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -423,
-			},
-			{
-				route: T OWL,
-				trip:  8126,
-				time: 23940,
-				longitude: -122.419321,
-				latitude: 37.775056,
-				d_time: -55,
-			},
-	},
-	 8165: {
-		start: 25740,
-		data: [
-			{
-				route: T OWL,
-				trip:  8165,
-				time: 25740,
-				longitude: -122.393324,
-				latitude: 37.79324,
-				d_time: 87,
-			},
-			{
-				route: T OWL,
-				trip:  8165,
-				time: 27780,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -351,
-			},
-			{
-				route: T OWL,
-				trip:  8165,
-				time: 25140,
-				longitude: -122.419321,
-				latitude: 37.775056,
-				d_time: 19,
-			},
-	},
-	 8144: {
-		start: 26940,
-		data: [
-			{
-				route: T OWL,
-				trip:  8144,
-				time: 26940,
-				longitude: -122.393324,
-				latitude: 37.79324,
-				d_time: -118,
-			},
-	},
-	 8199: {
-		start: 28140,
-		data: [
-			{
-				route: T OWL,
-				trip:  8199,
-				time: 28140,
-				longitude: -122.393324,
-				latitude: 37.79324,
-				d_time: 314,
-			},
-			{
-				route: T OWL,
-				trip:  8199,
-				time: 30180,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -22,
-			},
-			{
-				route: T OWL,
-				trip:  8199,
-				time: 27540,
-				longitude: -122.419321,
-				latitude: 37.775056,
-				d_time: -57,
-			},
-	},
-	 8137: {
-		start: 29340,
-		data: [
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 29340,
-				longitude: -122.393324,
-				latitude: 37.79324,
-				d_time: 129,
-			},
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 31380,
-				longitude: -122.405067,
-				latitude: 37.708837,
-				d_time: -161,
-			},
-			{
-				route: T OWL,
-				trip:  8137,
-				time: 28740,
-				longitude: -122.419321,
-				latitude: 37.775056,
-				d_time: 14,
-			},
+  " 8137-20760": {
+    "start": 20760,
+    "data": [
+      {
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 20760,
+        "longitude": -122.38846,
+        "latitude": 37.76079,
+        "d_time": -174
+      },{
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 21720,
+        "longitude": -122.393874,
+        "latitude": 37.794105,
+        "d_time": -438
+      },{
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 19620,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -595
+      }    ]
+  },
+  " 8510-22440": {
+    "start": 22440,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8510,
+        "time": 22440,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": 32
+      }    ]
+  },
+  " 8137-22440": {
+    "start": 22440,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 22440,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": -403
+      }    ]
+  },
+  " 8126-21960": {
+    "start": 21960,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8126,
+        "time": 21960,
+        "longitude": -122.38846,
+        "latitude": 37.76079,
+        "d_time": 173
+      },{
+        "route": "T OWL",
+        "trip":  8126,
+        "time": 22920,
+        "longitude": -122.393874,
+        "latitude": 37.794105,
+        "d_time": 3
+      },{
+        "route": "T OWL",
+        "trip":  8126,
+        "time": 20820,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -773
+      },{
+        "route": "T OWL",
+        "trip":  8126,
+        "time": 23640,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": 69
+      }    ]
+  },
+  " 8165-23160": {
+    "start": 23160,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8165,
+        "time": 23160,
+        "longitude": -122.38846,
+        "latitude": 37.76079,
+        "d_time": -91
+      },{
+        "route": "T OWL",
+        "trip":  8165,
+        "time": 24120,
+        "longitude": -122.393874,
+        "latitude": 37.794105,
+        "d_time": -77
+      },{
+        "route": "T OWL",
+        "trip":  8165,
+        "time": 22020,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -287
+      },{
+        "route": "T OWL",
+        "trip":  8165,
+        "time": 24840,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": -44
+      }    ]
+  },
+  " 8438-24360": {
+    "start": 24360,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8438,
+        "time": 24360,
+        "longitude": -122.38846,
+        "latitude": 37.76079,
+        "d_time": -16
+      },{
+        "route": "T OWL",
+        "trip":  8438,
+        "time": 25320,
+        "longitude": -122.393874,
+        "latitude": 37.794105,
+        "d_time": -100
+      }    ]
+  },
+  " 8144-25320": {
+    "start": 25320,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8144,
+        "time": 25320,
+        "longitude": -122.393874,
+        "latitude": 37.794105,
+        "d_time": 2312
+      }    ]
+  },
+  " 8438-23220": {
+    "start": 23220,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8438,
+        "time": 23220,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -385
+      },{
+        "route": "T OWL",
+        "trip":  8438,
+        "time": 26040,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": 25
+      }    ]
+  },
+  " 8144-26040": {
+    "start": 26040,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8144,
+        "time": 26040,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": 2240
+      }    ]
+  },
+  " 8199-25560": {
+    "start": 25560,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8199,
+        "time": 25560,
+        "longitude": -122.38846,
+        "latitude": 37.76079,
+        "d_time": -37
+      },{
+        "route": "T OWL",
+        "trip":  8199,
+        "time": 26520,
+        "longitude": -122.393874,
+        "latitude": 37.794105,
+        "d_time": -276
+      },{
+        "route": "T OWL",
+        "trip":  8199,
+        "time": 27240,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": -177
+      }    ]
+  },
+  " 8137-26760": {
+    "start": 26760,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 26760,
+        "longitude": -122.38846,
+        "latitude": 37.76079,
+        "d_time": -155
+      },{
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 27720,
+        "longitude": -122.393874,
+        "latitude": 37.794105,
+        "d_time": -247
+      },{
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 25620,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -189
+      },{
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 28440,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": -164
+      },{
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 19380,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -355
+      }    ]
+  },
+  " 8126-20580": {
+    "start": 20580,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8126,
+        "time": 20580,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -533
+      }    ]
+  },
+  " 8165-19740": {
+    "start": 19740,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8165,
+        "time": 19740,
+        "longitude": -122.393324,
+        "latitude": 37.79324,
+        "d_time": 116
+      },{
+        "route": "T OWL",
+        "trip":  8165,
+        "time": 21780,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -67
+      }    ]
+  },
+  " 8438-20940": {
+    "start": 20940,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8438,
+        "time": 20940,
+        "longitude": -122.393324,
+        "latitude": 37.79324,
+        "d_time": 272
+      },{
+        "route": "T OWL",
+        "trip":  8438,
+        "time": 22980,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -142
+      }    ]
+  },
+  " 8420-22140": {
+    "start": 22140,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8420,
+        "time": 22140,
+        "longitude": -122.393324,
+        "latitude": 37.79324,
+        "d_time": 284
+      },{
+        "route": "T OWL",
+        "trip":  8420,
+        "time": 24180,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -526
+      },{
+        "route": "T OWL",
+        "trip":  8420,
+        "time": 21540,
+        "longitude": -122.419321,
+        "latitude": 37.775056,
+        "d_time": 162
+      }    ]
+  },
+  " 8137-25380": {
+    "start": 25380,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 25380,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": 14
+      }    ]
+  },
+  " 8126-24540": {
+    "start": 24540,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8126,
+        "time": 24540,
+        "longitude": -122.393324,
+        "latitude": 37.79324,
+        "d_time": 76
+      },{
+        "route": "T OWL",
+        "trip":  8126,
+        "time": 26580,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -423
+      },{
+        "route": "T OWL",
+        "trip":  8126,
+        "time": 23940,
+        "longitude": -122.419321,
+        "latitude": 37.775056,
+        "d_time": -55
+      }    ]
+  },
+  " 8165-25740": {
+    "start": 25740,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8165,
+        "time": 25740,
+        "longitude": -122.393324,
+        "latitude": 37.79324,
+        "d_time": 87
+      },{
+        "route": "T OWL",
+        "trip":  8165,
+        "time": 27780,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -351
+      },{
+        "route": "T OWL",
+        "trip":  8165,
+        "time": 25140,
+        "longitude": -122.419321,
+        "latitude": 37.775056,
+        "d_time": 19
+      }    ]
+  },
+  " 8144-26940": {
+    "start": 26940,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8144,
+        "time": 26940,
+        "longitude": -122.393324,
+        "latitude": 37.79324,
+        "d_time": -118
+      }    ]
+  },
+  " 8199-28140": {
+    "start": 28140,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8199,
+        "time": 28140,
+        "longitude": -122.393324,
+        "latitude": 37.79324,
+        "d_time": 314
+      },{
+        "route": "T OWL",
+        "trip":  8199,
+        "time": 30180,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -22
+      },{
+        "route": "T OWL",
+        "trip":  8199,
+        "time": 27540,
+        "longitude": -122.419321,
+        "latitude": 37.775056,
+        "d_time": -57
+      }    ]
+  },
+  " 8137-29340": {
+    "start": 29340,
+    "data": [
+    {
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 29340,
+        "longitude": -122.393324,
+        "latitude": 37.79324,
+        "d_time": 129
+      },{
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 31380,
+        "longitude": -122.405067,
+        "latitude": 37.708837,
+        "d_time": -161
+      },{
+        "route": "T OWL",
+        "trip":  8137,
+        "time": 28740,
+        "longitude": -122.419321,
+        "latitude": 37.775056,
+        "d_time": 14
+      }    ]
+  }
 }

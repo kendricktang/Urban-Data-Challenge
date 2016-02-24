@@ -5,7 +5,7 @@ import os
 
 def date_filter_scheduled(date):
     """
-    Given a date (between Oct 1st and Oct 7th), scheduled arrival  data is
+    Given a date (between Oct 1st and Oct 7th), scheduled arrival data is
     filtered by date and put into the appropriate folder.
     """
     f_r = file('san-francisco/scheduled-arrivals.csv', 'r')

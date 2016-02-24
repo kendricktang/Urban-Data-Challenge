@@ -1,185 +1,172 @@
 {
-	 8143: {
-		start: 21600,
-		data: [
-			{
-				route: K OWL,
-				trip:  8143,
-				time: 21600,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: 16,
-			},
-			{
-				route: K OWL,
-				trip:  8143,
-				time: 21960,
-				longitude: -122.43538,
-				latitude: 37.76262,
-				d_time: -8,
-			},
-			{
-				route: K OWL,
-				trip:  8143,
-				time: 22560,
-				longitude: -122.4658,
-				latitude: 37.740956,
-				d_time: 113,
-			},
-	},
-	 8169: {
-		start: 20160,
-		data: [
-			{
-				route: K OWL,
-				trip:  8169,
-				time: 20160,
-				longitude: -122.43538,
-				latitude: 37.76262,
-				d_time: -76,
-			},
-	},
-	 8443: {
-		start: 15481,
-		data: [
-			{
-				route: K OWL,
-				trip:  8443,
-				time: 15481,
-				longitude: -122.393232,
-				latitude: 37.793347,
-				d_time: 145,
-			},
-			{
-				route: K OWL,
-				trip:  8443,
-				time: 16201,
-				longitude: -122.419183,
-				latitude: 37.775243,
-				d_time: 163,
-			},
-			{
-				route: K OWL,
-				trip:  8443,
-				time: 16561,
-				longitude: -122.43538,
-				latitude: 37.76262,
-				d_time: 282,
-			},
-			{
-				route: K OWL,
-				trip:  8443,
-				time: 17161,
-				longitude: -122.4658,
-				latitude: 37.740956,
-				d_time: 459,
-			},
-			{
-				route: K OWL,
-				trip:  8443,
-				time: 17341,
-				longitude: -122.471618,
-				latitude: 37.734807,
-				d_time: 439,
-			},
-	},
-	 8169: {
-		start: 22440,
-		data: [
-			{
-				route: K OWL,
-				trip:  8169,
-				time: 22440,
-				longitude: -122.393232,
-				latitude: 37.793347,
-				d_time: 140,
-			},
-			{
-				route: K OWL,
-				trip:  8169,
-				time: 21840,
-				longitude: -122.419321,
-				latitude: 37.775056,
-				d_time: 229,
-			},
-			{
-				route: K OWL,
-				trip:  8169,
-				time: 21420,
-				longitude: -122.435449,
-				latitude: 37.76246,
-				d_time: 6,
-			},
-	},
-	 8443: {
-		start: 4201,
-		data: [
-			{
-				route: K OWL,
-				trip:  8443,
-				time: 4201,
-				longitude: -122.393232,
-				latitude: 37.793347,
-				d_time: 283,
-			},
-			{
-				route: K OWL,
-				trip:  8443,
-				time: 3601,
-				longitude: -122.419321,
-				latitude: 37.775056,
-				d_time: 180,
-			},
-			{
-				route: K OWL,
-				trip:  8443,
-				time: 46381,
-				longitude: -122.435449,
-				latitude: 37.76246,
-				d_time: 40,
-			},
-			{
-				route: K OWL,
-				trip:  8443,
-				time: 45721,
-				longitude: -122.466006,
-				latitude: 37.74092,
-				d_time: 82,
-			},
-	},
-	 8424: {
-		start: 21540,
-		data: [
-			{
-				route: K OWL,
-				trip:  8424,
-				time: 21540,
-				longitude: -122.393232,
-				latitude: 37.793347,
-				d_time: 318,
-			},
-			{
-				route: K OWL,
-				trip:  8424,
-				time: 20940,
-				longitude: -122.419321,
-				latitude: 37.775056,
-				d_time: 218,
-			},
-			{
-				route: K OWL,
-				trip:  8424,
-				time: 20520,
-				longitude: -122.435449,
-				latitude: 37.76246,
-				d_time: 171,
-			},
-			{
-				route: K OWL,
-				trip:  8424,
-				time: 19860,
-				longitude: -122.466006,
-				latitude: 37.74092,
-				d_time: 218,
-			},
+  " 8143-21600": {
+    "start": 21600,
+    "data": [
+      {
+        "route": "K OWL",
+        "trip":  8143,
+        "time": 21600,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": 16
+      },{
+        "route": "K OWL",
+        "trip":  8143,
+        "time": 21960,
+        "longitude": -122.43538,
+        "latitude": 37.76262,
+        "d_time": -8
+      },{
+        "route": "K OWL",
+        "trip":  8143,
+        "time": 22560,
+        "longitude": -122.4658,
+        "latitude": 37.740956,
+        "d_time": 113
+      }    ]
+  },
+  " 8169-20160": {
+    "start": 20160,
+    "data": [
+    {
+        "route": "K OWL",
+        "trip":  8169,
+        "time": 20160,
+        "longitude": -122.43538,
+        "latitude": 37.76262,
+        "d_time": -76
+      }    ]
+  },
+  " 8443-15481": {
+    "start": 15481,
+    "data": [
+    {
+        "route": "K OWL",
+        "trip":  8443,
+        "time": 15481,
+        "longitude": -122.393232,
+        "latitude": 37.793347,
+        "d_time": 145
+      },{
+        "route": "K OWL",
+        "trip":  8443,
+        "time": 16201,
+        "longitude": -122.419183,
+        "latitude": 37.775243,
+        "d_time": 163
+      },{
+        "route": "K OWL",
+        "trip":  8443,
+        "time": 16561,
+        "longitude": -122.43538,
+        "latitude": 37.76262,
+        "d_time": 282
+      },{
+        "route": "K OWL",
+        "trip":  8443,
+        "time": 17161,
+        "longitude": -122.4658,
+        "latitude": 37.740956,
+        "d_time": 459
+      },{
+        "route": "K OWL",
+        "trip":  8443,
+        "time": 17341,
+        "longitude": -122.471618,
+        "latitude": 37.734807,
+        "d_time": 439
+      }    ]
+  },
+  " 8169-22440": {
+    "start": 22440,
+    "data": [
+    {
+        "route": "K OWL",
+        "trip":  8169,
+        "time": 22440,
+        "longitude": -122.393232,
+        "latitude": 37.793347,
+        "d_time": 140
+      },{
+        "route": "K OWL",
+        "trip":  8169,
+        "time": 21840,
+        "longitude": -122.419321,
+        "latitude": 37.775056,
+        "d_time": 229
+      },{
+        "route": "K OWL",
+        "trip":  8169,
+        "time": 21420,
+        "longitude": -122.435449,
+        "latitude": 37.76246,
+        "d_time": 6
+      }    ]
+  },
+  " 8443-4201": {
+    "start": 4201,
+    "data": [
+    {
+        "route": "K OWL",
+        "trip":  8443,
+        "time": 4201,
+        "longitude": -122.393232,
+        "latitude": 37.793347,
+        "d_time": 283
+      },{
+        "route": "K OWL",
+        "trip":  8443,
+        "time": 3601,
+        "longitude": -122.419321,
+        "latitude": 37.775056,
+        "d_time": 180
+      },{
+        "route": "K OWL",
+        "trip":  8443,
+        "time": 46381,
+        "longitude": -122.435449,
+        "latitude": 37.76246,
+        "d_time": 40
+      },{
+        "route": "K OWL",
+        "trip":  8443,
+        "time": 45721,
+        "longitude": -122.466006,
+        "latitude": 37.74092,
+        "d_time": 82
+      }    ]
+  },
+  " 8424-21540": {
+    "start": 21540,
+    "data": [
+    {
+        "route": "K OWL",
+        "trip":  8424,
+        "time": 21540,
+        "longitude": -122.393232,
+        "latitude": 37.793347,
+        "d_time": 318
+      },{
+        "route": "K OWL",
+        "trip":  8424,
+        "time": 20940,
+        "longitude": -122.419321,
+        "latitude": 37.775056,
+        "d_time": 218
+      },{
+        "route": "K OWL",
+        "trip":  8424,
+        "time": 20520,
+        "longitude": -122.435449,
+        "latitude": 37.76246,
+        "d_time": 171
+      },{
+        "route": "K OWL",
+        "trip":  8424,
+        "time": 19860,
+        "longitude": -122.466006,
+        "latitude": 37.74092,
+        "d_time": 218
+      }    ]
+  }
 }
