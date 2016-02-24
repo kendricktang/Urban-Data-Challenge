@@ -36,7 +36,7 @@ def convert_to_big_json(date, route):
             if data:
                 last_stop = data[-1][-1].copy()
                 last_stop["size"] = 0
-                last_stop["time"] += 10
+                last_stop["time"] += 10 * 60
                 data[-1].append(last_stop)
 
             # Create new trip
@@ -49,11 +49,10 @@ def convert_to_big_json(date, route):
             data[-1].append(next_stop)
             last_time = next_stop["time"]
 
-    # END THE LAST TRIP... twice!!!
+    # END THE LAST TRIP!!!
     last_stop = data[-1][-1].copy()
     last_stop["size"] = 0
-    last_stop["time"] += 10
-    data[-1].append(last_stop)
+    last_stop["time"] += 10 * 60
     data[-1].append(last_stop)
 
     f_json.write(json.dumps(data))
