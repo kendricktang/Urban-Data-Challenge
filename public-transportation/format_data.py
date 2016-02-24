@@ -174,12 +174,15 @@ def all_sort():
         my_sort(date)
 
 
-def combine_schedule_realtime(date):
+def combine_schedule_realtime_padded(date):
     """
     Given a date (between Oct 1st and Oct 7th), the scheduled and realtime
-    arrival data is concatenated into "combined.csv". Since I am limited by
-    realtime data, this function matches the scheduled data to the real data
-    and simply concatenates the scheduled time into the realtime-arrivals data.
+    arrival data is concatenated into "combined.csv".
+    
+    Since there are fewer realtime stops than there are scheduled stops,
+    the realtime data will be padded so that all stops are contained within
+    the generated data set. I don't even use the realtime stop data that isn't
+    the realtime arrival... so to indicate padded stops, this value is 'NA'.
     """
     f_real = file('sf_oct_%d/realtime-arrivals-sorted.csv' % date, 'r')
     f_sched = file('sf_oct_%d/scheduled-arrivals-sorted.csv' % date, 'r')
@@ -189,7 +192,76 @@ def combine_schedule_realtime(date):
     csv_sched = reader(f_sched)
 
     header = csv_real.next()
-    f_sched.next()
+    csv_sched.next()
+    f_comb.write(','.join(header))
+    f_comb.write(',SCHEDULED_ARRIVAL_TIME\n')
+
+    while 1:
+        try:
+            # Get next 
+            line = csv_real.next()
+            route = line[0]
+            trip_id = line[2]
+            longitude = line[7]
+            latitude = line[8]
+
+            written = False
+
+            while not written:
+                try:
+                    other = csv_sched.next()
+                    if (other[0] == route and other[1] == trip_id and
+                            other[3] == longitude and other[4] == latitude):
+                        f_comb.write(','.join(line))
+                        f_comb.write(',%s\n' % other[5])
+                        written = True
+                    else:
+                        # Pad!! The last value of line is the realtime data, so
+                        # just ignore that with line[:-1]
+                        f_comb.write(','.join(line[:-1]))
+                        f_comb.write(',NA')
+                        f_comb.write(',%s\n' % other[5])
+
+                except StopIteration:
+                    print "Did not write %s" % ','.join(line)
+                    break
+
+        except StopIteration:
+            break
+    f_real.close()
+    f_sched.close()
+    f_comb.close()
+
+
+def all_combine_schedule_realtime_padded():
+    """
+    Combines the scheduled and realtime arrival data between Oct 1 and Oct 7.
+
+    Note: combines "sorted" files (this is really important!!), and generates
+    "combined" files.
+    """
+    for date in range(1,8):
+        combine_schedule_realtime_padded(date)
+
+
+def combine_schedule_realtime(date):
+    """
+    Given a date (between Oct 1st and Oct 7th), the scheduled and realtime
+    arrival data is concatenated into "combined.csv".
+
+    Since I am limited by realtime data, this function matches the scheduled
+    data to the real data and simply concatenates the scheduled time into the
+    realtime-arrivals data.
+    """
+    f_real = file('sf_oct_%d/realtime-arrivals-sorted.csv' % date, 'r')
+    f_sched = file('sf_oct_%d/scheduled-arrivals-sorted.csv' % date, 'r')
+    f_comb = file('sf_oct_%d/combined.csv' % date, 'w')
+
+    csv_real = reader(f_real)
+    csv_sched = reader(f_sched)
+
+    header = csv_real.next()
+    csv_sched.next()
     f_comb.write(','.join(header))
     f_comb.write(',SCHEDULED_ARRIVAL_TIME\n')
 
@@ -237,6 +309,9 @@ def append_time_difference(date):
     """
     Given a date (between Oct 1st and Oct 7th), the value "dTIME" is appended
     to each line. dTIME is in seconds.
+
+    If appending time_difference to a padded stop, just previous value or 0,
+    if that doesn't exist.
     """
     f_r = file('sf_oct_%d/combined.csv' % date, 'r')
     f_w = file('sf_oct_%d/appended.csv' % date, 'w')
@@ -249,15 +324,27 @@ def append_time_difference(date):
     time_pattern = re.compile(
             '10/[0-9]/2012 ([0-9]+:[0-9]{2}:[0-9]{2})\.[0-9]{6} ([PA])M')
 
+    previous_val = 0
+    curr_trip = ''
     for line in csv_r:
+        # is this a new trip? If yes, reset previous_val to 0
+        if line[2] != curr_trip:
+            curr_trip = line[2]
+            previous_val = 0
+
         t_sched_raw = time_pattern.match(line[10])
         t_real_raw = time_pattern.match(line[9])
 
         try:
-            time_sched = convert_time_to_sec(t_sched_raw.groups())
-            time_real = convert_time_to_sec(t_real_raw.groups())
-            dTIME = time_real - time_sched
-        except:
+            if t_real_raw:
+                time_sched = convert_time_to_sec(t_sched_raw.groups())
+                time_real = convert_time_to_sec(t_real_raw.groups())
+                dTIME = time_real - time_sched
+                previous_val = dTIME
+            else:
+                dTIME = previous_val
+        except Exception as e:
+            print e
             print "Invalid time format!"
             print line
 
@@ -365,5 +452,6 @@ def all_simplify_route_data():
 
 
 if __name__ == '__main__':
+    all_append_time_difference()
     all_route_filter()
     all_simplify_route_data()
