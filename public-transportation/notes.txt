@@ -1,8 +1,0 @@
-one day
-    one route
-        one trip:
-            start with start time.
-            calculate how many "zeros" i need, and then pad it.
-            Then pad every three minutes - if the current time > stop.time, then change the bus info.
-
-
